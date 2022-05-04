@@ -1,13 +1,31 @@
 ![](./images/decree_head2.png)
 
+# Context
+The **DECREE Virtual Institute** (Department of Defense Electromagnetic and Cyber Research and Experiential Education)  is one of the 6 existing **Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY)** awarded by the [Griffiss Institute](https://www.griffissinstitute.org/about-us/gi-news/news-story/griffiss-institute-selects-universities-as-viceroy-national-hubs-to-boost-stem-students-into-cyber-defense).
+
 # VICEROY DECREE  Virtual Institute 
-## NU Scholars Public Information.
 
-The VICEROY DECREE VI will establish a shared curriculum that will deliver advanced cyber, EMS, data science, cryptography, and strategic foreign language education, hands-on practical training, and research opportunities to a cohort of up to 60 ethnically and economically diverse undergraduate students and ROTC cadets. The virtual institute will organize and offer multiple events for scholars and mentors to attend to meet and network with industry and DoD partners and to showcase knowledge, skills, and abilities.
+The VICEROY DECREE VI will establish a shared curriculum that will deliver advanced cyber, EMS, data science, cryptography, and strategic foreign language education, hands-on practical training, and research opportunities to a cohort of up to 12 Northeastern University undergraduate students and ROTC cadets. The virtual institute will organize and offer multiple events for scholars and mentors to attend to meet and network with industry and DoD partners and to showcase knowledge, skills, and abilities.
 
 
-## Instructions for Applicants
-+ [Download Application form here](./doc/decreeapp.pdf)
+## Scholars' Applicantions 
+
+VICEROY DECREE scholars will have further access to advanced learning, professional development opportunities, and mentorships until Spring 2024 in preparation for cyber and EMS careers within the Department of Defense and/or defense industry.
+
+**Eligibility Criteria:**
++ Must be **undergraduate student enrolled full-time** at Northeastern University (preferably sophomore or junior)
++ Must fulfill specific academic requirements and course pre-requisites 
++ Must be security-clearance eligible
+
+**[Download Application form here]**(./doc/decreeapp.pdf)
+
+## Become a Mentor for DECREE VI
+
+VICEROY DECREE Virtual Institute is seeking **mentors with backgrounds in Cybersecurity, Electromagnetic Spectrum, Cryptography, and/or Data Science**.
+
+Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as a role model, participate in regular monthly gatherings to provide career guidance in DoD and DIB careers, participate in networking events with scholars and our industry partners and in DECREE informational sessions with high school students, and support advertising and communicating Train the Trainer opportunities to community colleges.
+
+> Mentors will be provided with a small stipend for their participation and efforts.
 
 ## Calendar
 
