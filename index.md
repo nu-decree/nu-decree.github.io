@@ -1,14 +1,15 @@
 ![](./images/decree_head2.png)
 
-# Context
+# VICEROY DECREE  Virtual Institute 
+
 The **DECREE Virtual Institute** (Department of Defense Electromagnetic and Cyber Research and Experiential Education)  is one of the 6 existing **Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY)** awarded by the [Griffiss Institute](https://www.griffissinstitute.org/about-us/gi-news/news-story/griffiss-institute-selects-universities-as-viceroy-national-hubs-to-boost-stem-students-into-cyber-defense).
 
-# VICEROY DECREE  Virtual Institute 
+The VICEROY DECREE Virtual Institute is a consortium of 5 universities (Northern Arizona University, University of Houston, University of South Carolina, University of Texas – Austin, and Northeastern University as the lead) to provide a shared curriculum in cybersecurity, EMS, strategic foreign languages, and data science in order to increase the pipeline of highly qualified professionals, particularly from historically underserved groups, seeking careers in the DoD and industry partners. Undergraduate Scholars will have the opportunity to take courses and participate in workshops, seminars, and other industry-related events at partner institutions.
 
 The VICEROY DECREE VI will establish a shared curriculum that will deliver advanced cyber, EMS, data science, cryptography, and strategic foreign language education, hands-on practical training, and research opportunities to a cohort of up to 12 Northeastern University undergraduate students and ROTC cadets. The virtual institute will organize and offer multiple events for scholars and mentors to attend to meet and network with industry and DoD partners and to showcase knowledge, skills, and abilities.
 
 
-## Scholars' Applicantions 
+# Scholars' Applicantions 
 
 VICEROY DECREE scholars will have further access to advanced learning, professional development opportunities, and mentorships until Spring 2024 in preparation for cyber and EMS careers within the Department of Defense and/or defense industry.
 
@@ -17,9 +18,9 @@ VICEROY DECREE scholars will have further access to advanced learning, professio
 + Must fulfill specific academic requirements and course pre-requisites 
 + Must be security-clearance eligible
 
-**[Download Application form here]**(./doc/decreeapp.pdf)
+**[Download Application form here](./doc/decreeapp.pdf)**
 
-## Become a Mentor for DECREE VI
+# Become a Mentor for DECREE VI
 
 VICEROY DECREE Virtual Institute is seeking **mentors with backgrounds in Cybersecurity, Electromagnetic Spectrum, Cryptography, and/or Data Science**.
 
