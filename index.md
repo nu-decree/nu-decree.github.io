@@ -3,8 +3,9 @@
 
 ### [1. The Viceroy DECREE Virtual Institute](#decree)
 ### [2. DECREE Scholars' Applications](#applications)
-### [3. Become a mentor for DECREE Scholars](#mentors)
-### [4. DECREE Calendar](#calendar)
+### [3. DECREE Course Curricula](#curricula)
+### [4. Become a mentor for DECREE Scholars](#mentors)
+### [5. DECREE Calendar](#calendar)
 
 ---
 
@@ -34,6 +35,24 @@ VICEROY DECREE scholars will have further access to advanced learning, professio
 ---
 
 # The DECREE courses Curricula <a name="curricula"/>
++ Multi-institution curriculum for all VI students
++ Students earn course credits toward their “home degree”
++ Courses will follow a virtual online instructional method for Visiting VI students
++ DECREE Scholars need to complete 8-10 Credits.
++ Course credit can vary from 3 to 4 credits. 
++ Course curriculum offer will be based on **breadth** or **depth**
+  - Courses complement existing student’s background and skills
+  - Courses amplifying and extending existing student’s background and skills
++ VI curricula areas
+  - (A1) Electro-Magnetic Spectrum
+  - (A2) Cybersecurity
+  - (A3) Cryptography
+  - (A4) Data Science
+  - (A5) Strategic Foreing Language
+
++ You can see the list of [courses curricula here](./curricula.md)
+
+
 
 
 
