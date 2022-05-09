@@ -40,6 +40,12 @@ VICEROY DECREE scholars will have further access to advanced learning, professio
 + Courses will follow a virtual online instructional method for Visiting VI students
 + DECREE Scholars need to complete 8-10 Credits.
 + Course credit can vary from 3 to 4 credits. 
+
+
+![image](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuG8pk8hBCqkICnGqN3BJqbABKlDA55nIaujIKnMSyqkBYbCL0X9BCZIvaXE1J0q51IqjIoqj1Q1yIcP9iK81M4v1mSeOBfGCrcLDl23CQ93PXWReXYkGPhe9XY32uHRO76v2d2cfUIcGS086Mdu1bmEG3mn10000)
+
+ 
+
 + Course curriculum offer will be based on **breadth** or **depth**
   - Courses complement existing student’s background and skills
   - Courses amplifying and extending existing student’s background and skills
@@ -50,7 +56,7 @@ VICEROY DECREE scholars will have further access to advanced learning, professio
   - (A4) Data Science
   - (A5) Strategic Foreing Language
 
-+ You can see the list of [courses curricula here](./curricula.md)
++ You can see the list of [courses curricula here](./list.md)
 
 
 
