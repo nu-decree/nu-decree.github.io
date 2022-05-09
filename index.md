@@ -33,6 +33,10 @@ VICEROY DECREE scholars will have further access to advanced learning, professio
 
 ---
 
+# The DECREE courses Curricula <a name="curricula"/>
+
+
+
 # Become a Mentor for DECREE VI <a name="mentors"/>
 
 VICEROY DECREE Virtual Institute is seeking **mentors with backgrounds in Cybersecurity, Electromagnetic Spectrum, Cryptography, and/or Data Science**.
