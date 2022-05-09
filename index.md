@@ -35,21 +35,16 @@ VICEROY DECREE scholars will have further access to advanced learning, professio
 ---
 
 # The DECREE courses Curricula <a name="curricula"/>
-+ Multi-institution curriculum for all VI students
-+ Students earn course credits toward their “home degree”
-+ Courses will follow a virtual online instructional method for Visiting VI students
-+ DECREE Scholars need to complete 8-10 Credits.
-+ Course credit can vary from 3 to 4 credits. 
+Decree scholars can take courses from a shared virtual institute curriculum. These courses  will follow a virtual online instructional method for Visiting VI students. Each scholar **needs to complete 8-10 Credits** from this multi-institution curriculum (courses credits can vary from 3 to 4 credit hours).
 
 
 ![image](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuG8pk8hBCqkICnGqN3BJqbABKlDA55nIaujIKnMSyqkBYbCL0X9BCZIvaXE1J0q51IqjIoqj1Q1yIcP9iK81M4v1mSeOBfGCrcLDl23CQ93PXWReXYkGPhe9XY32uHRO76v2d2cfUIcGS086Mdu1bmEG3mn10000)
 
- 
-
-+ Course curriculum offer will be based on **breadth** or **depth**
+Depending on scholars' background they can select courses which complement their skills and knowledge  based on **breadth** or **depth**
   - Courses complement existing student’s background and skills
   - Courses amplifying and extending existing student’s background and skills
-+ VI curricula areas
+
+Course curricula is divided into the following areas: 
   - (A1) Electro-Magnetic Spectrum
   - (A2) Cybersecurity
   - (A3) Cryptography
@@ -60,6 +55,7 @@ VICEROY DECREE scholars will have further access to advanced learning, professio
 
 
 
+--- 
 
 
 # Become a Mentor for DECREE VI <a name="mentors"/>
