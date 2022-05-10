@@ -11,7 +11,7 @@
 
 
 
-# VICEROY DECREE  Virtual Institute <a name="decree"/>
+# 1. VICEROY DECREE  Virtual Institute <a name="decree"/>
 
 The **DECREE Virtual Institute** (Department of Defense Electromagnetic and Cyber Research and Experiential Education)  is one of the 6 existing **Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY)** awarded by the [Griffiss Institute](https://www.griffissinstitute.org/about-us/gi-news/news-story/griffiss-institute-selects-universities-as-viceroy-national-hubs-to-boost-stem-students-into-cyber-defense).
 
@@ -21,7 +21,7 @@ The VICEROY DECREE VI will establish a shared curriculum that will deliver advan
 
 ---
 
-# Scholars' Applicantions <a name="applications"/>
+# 2.  Scholars' Applicantions <a name="applications"/>
 
 VICEROY DECREE scholars will have further access to advanced learning, professional development opportunities, and mentorships until Spring 2024 in preparation for cyber and EMS careers within the Department of Defense and/or defense industry.
 
@@ -38,7 +38,7 @@ The application process is described in the following flow-chart:
 
 ---
 
-# The DECREE courses Curricula <a name="curricula"/>
+# 3. The DECREE courses Curricula <a name="curricula"/>
 Decree scholars can take courses from a shared virtual institute curriculum. These courses  will follow a virtual online instructional method for Visiting VI students. Each scholar **needs to complete 8-10 Credits** from this multi-institution curriculum (courses credits can vary from 3 to 4 credit hours).
 
 
@@ -62,7 +62,7 @@ Course curricula is divided into the following areas:
 --- 
 
 
-# Become a Mentor for DECREE VI <a name="mentors"/>
+# 4. Become a Mentor for DECREE VI <a name="mentors"/>
 
 VICEROY DECREE Virtual Institute is seeking **mentors with backgrounds in Cybersecurity, Electromagnetic Spectrum, Cryptography, and/or Data Science**.
 
@@ -72,7 +72,7 @@ Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as 
 
 ---
 
-## Calendar <a name="calendar"/> 
+## 5. Calendar <a name="calendar"/> 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showTitle=0&showCalendars=1&showPrint=1&src=bnVkZWNyZWVAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
