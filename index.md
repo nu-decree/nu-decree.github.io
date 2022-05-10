@@ -32,13 +32,17 @@ VICEROY DECREE scholars will have further access to advanced learning, professio
 
 **[Download Application form here](./doc/decreeapp.pdf)**
 
+The application process is described in the following flow-chart:
+
+![AppProcess](https://www.plantuml.com/plantuml/png/TP5DZl8m343tFOKbDh3uBb0sz8FE6e5czcxZjXQkKza9Q6u_1UQdivX5f4XvZbvUTfxGKXwbU6oAybK3MMyOCYQ2Syg1D3buRaPEK4sJS8k9eswByjmEKT1yu0d-HxG0HbUccmF-S0vH0S6Y26iF3Jhxjk0ErelBu6ZqhveiNYbi80sai7udtnIh2OLw8z9oYKypZjEJdqNWG8biP2Ne29qR8JZK-rDTGzMsHe7JSwv58GreVypiOpOdXnGXuOMs1OaJh3NUHLWlPQq1OWVuIoMsv3wp6kwBks8bt0-faKpbWJfMJdpzRZaROQ2HMpWAAg06s7zPmQprmee2fqV8n-aR2eTdSbZs-7pWyXEg6rgu5zcHXZpA1m00)
+
 ---
 
 # The DECREE courses Curricula <a name="curricula"/>
 Decree scholars can take courses from a shared virtual institute curriculum. These courses  will follow a virtual online instructional method for Visiting VI students. Each scholar **needs to complete 8-10 Credits** from this multi-institution curriculum (courses credits can vary from 3 to 4 credit hours).
 
 
-![image](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuG8pk8hBCqkICnGqN3BJqbABKlDA55nIaujIKnMSyqkBYbCL0X9BCZIvaXE1J0q51IqjIoqj1Q1yIcP9iK81M4v1mSeOBfGCrcLDl23CQ93PXWReXYkGPhe9XY32uHRO76v2d2cfUIcGS086Mdu1bmEG3mn10000)
+![Paths](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuG8pk8hBCqkICnGqN3BJqbABKlDA55nIaujIKnMSyqkBYbCL0X9BCeerkP8JWMmD1GKjBGijBGMWWfJCacA50g2a9fU2WfK9N2WPhCqQgo3Kb9WyBIrBRAOOesiWNX3cG90B3GtG3LV0Rn1XXwVcfK022XXg-GLS3a0-C0W1)
 
 Depending on scholars' background they can select courses which complement their skills and knowledge  based on **breadth** or **depth**
   - Courses complement existing student’s background and skills
