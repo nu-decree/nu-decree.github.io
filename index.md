@@ -9,7 +9,7 @@
 
 <p color:"red" align="center">
 <h2 color:"green" align="center"> Interested? </h2>
-<h3 align="center"> Please <a href="https://neu.co1.qualtrics.com/jfe/form/SV_4NrFdmk39xDWZwO">Register for our informative session on Tuesday May 24th 4pm.</a> </h3>
+<h3 align="center"> Please <a href="https://neu.co1.qualtrics.com/jfe/form/SV_4NrFdmk39xDWZwO">Register for our ON-LINE informative session on Tuesday May 24th 4pm.</a> </h3>
 </p>
 
 
