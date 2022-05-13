@@ -7,7 +7,11 @@
 ### [4. Become a mentor for DECREE Scholars](#mentors)
 ### [5. DECREE Calendar](#calendar)
 
----
+<p align="center">
+<h1 align="center"> Interested? </h1>
+<h2 align="center"> Please <a href="https://neu.co1.qualtrics.com/jfe/form/SV_4NrFdmk39xDWZwO">Register for our informative session on Tuesday May 24th 4pm.</a> </h2>
+</p>
+
 
 
 
