@@ -86,7 +86,8 @@ Prerequisites: None
 ### Northern Arizona University <a name="NAU"></a>
 
 
-#### PHY 331 - Electricity and Magnetism I (3 credits)     [Syllabus](./courses/NAUPHY331.pdf)
+#### PHY 331 - Electricity and Magnetism I (3 credits)     
+:book: [Syllabus](./courses/NAUPHY331.pdf)
 
 *Offered Fall 2022* 
 
