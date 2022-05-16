@@ -28,7 +28,14 @@ The VICEROY DECREE VI will establish a shared curriculum that will deliver advan
 
 # 2.  Scholars' Applicantions <a name="applications"/>
 
-VICEROY DECREE scholars will have further access to advanced learning, professional development opportunities, and mentorships until Spring 2024 in preparation for cyber and EMS careers within the Department of Defense and/or defense industry.
+Northeastern University is seeking applications from current undergraduate students to join our inaugural cohort of VICEROY DECREE scholars. 
+
+The Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY) DoD Electromagnetic and Cyber Research and Experiential Education Virtual Institute (DECREE) is a consortium of five universities created in close collaboration with the Department of Defense (DoD) and Defense Information Base partners to address recruitment and training challenges faced in DoD-related cyber and Electromagnetic Spectrum (EMS) fields. The goal of the program is to grow the availability of well-qualified and trained students with essential knowledge, skills, and abilities required to plan, synchronize, and lead DoD-related cyber and EMS operations.  
+
+VICEROY DECREE scholars will receive a scholarship of up to $10,000 to participate in a virtual curriculum focused on cybersecurity, electromagnetic spectrum operations, data science, cryptography, and strategic foreign languages offered by a consortium of institutions.  
+
+Scholars will be eligible to take virtual, credit-bearing coursework from consortium institutions, have access to mentoring programs, as well as access to DoD-related internships, co-ops, and post-graduation employment opportunities. Scholars will be required to complete 8-10 credits within the VICEROY DECREE designated curriculum by the end of the spring 2024 semester, with at least one-third of credits taken outside their home institution.
+
 
 **Eligibility Criteria:**
 + Must be **undergraduate student enrolled full-time** at Northeastern University (preferably sophomore or junior)
