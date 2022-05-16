@@ -8,6 +8,9 @@ This curricula is organized by the consortium University offer:
 + [University of Houston](#HOU)
 + [University of South Carolina](#USC)
 
+---
+##### You can find syllabus for most of these courses, however courses content may vary and the syllabus just provides a preliminary content of the course based on previous semesters.
+---
 
 
 
