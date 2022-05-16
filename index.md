@@ -7,14 +7,12 @@
 ### [4. Become a mentor for DECREE Scholars](#mentors)
 ### [5. DECREE Calendar](#calendar)
 
-<p color:"red" align="center">
+<p>
 <h2 color:"green" align="center"> Interested? </h2>
 <h3 align="center"> Please <a href="https://neu.co1.qualtrics.com/jfe/form/SV_4NrFdmk39xDWZwO">Register for our ON-LINE informative session on Tuesday May 25th 4pm.</a> </h3>
-
 </p>
 
 ---
-
 
 # 1. VICEROY DECREE  Virtual Institute <a name="decree"/>
 
