@@ -25,7 +25,8 @@ Description: Offers an opportunity to conduct introductory-level research or cre
 
 Prerequisites: Permission of the instructor.
 
-#### CS 3950: Introduction to Computer Science Research (2 credits)
+#### CS 3950: Introduction to Computer Science Research
+[:book:](./courses/NUCS3950.pdf)
 
 *Offered Fall 2022* 
 
@@ -38,6 +39,7 @@ Prerequisites: CS 2500, equivalent, or permission of the instructor.
  
 
 #### CY 3740/CY 5130: Systems Security (4 credits)
+[:book:](./courses/NUcy3740.pdf)
 
 *Offered Fall 2022* 
 
@@ -48,6 +50,7 @@ Prerequisites: Good understanding of the Linux command line, python and C langua
  
 
 #### CY 4760/6760: Security of Wireless and Mobile Systems (4 credits)
+[:book:](./courses/NUCY4760.pdf)
 
 *Offered Spring 2023* 
 
@@ -60,6 +63,7 @@ Prerequisites: None
  
 
 #### CY 4930: Cybersecurity Capstone (4 credits)
+[:book:](./courses/NUCY4930.pdf)
 
 *Offered Spring 2023* 
 
@@ -67,6 +71,7 @@ Description: Provides the culmination of the learned principles and methodologie
 
 
 #### CHNS 1101: Elementary Chinese 1 (4 credits)
+[:book:](./courses/NUCHNS1101.pdf)
 
 *Offered Fall and Spring* 
 
@@ -88,6 +93,8 @@ Prerequisites: None
 
 #### PHY 331 - Electricity and Magnetism I (3 credits)
 
+[:book:](./courses/NAUPHY331.pdf)
+
 *Offered Fall 2022* 
 
 Description: Electrostatistics, magnetostatistics, Lorentz force, fields in matter, electromagnetic induction. Letter grade only. 
@@ -97,6 +104,8 @@ Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher)
  
 
 #### PHY 332 - Electricity and Magnetism II (3 credits)
+
+
 
 *Offered Fall 2022* 
 
@@ -108,6 +117,8 @@ Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher)
 
 #### CYB 310 Malware Analysis (3 credits)
 
+[:book:](./courses/NAUCYB310.pdf)
+
 *Offered Fall 2022* 
 
 Description: Introduction to reverse engineering techniques for the identification, classification, and analysis of malware using disassembly, virtual machines, static analysis, and dynamic analysis. Letter grade only. 
@@ -115,6 +126,7 @@ Prerequisite: CS 205, CYB 136, and MAT 226 with grades of C or better in each
  
 
 #### CYB 410 Secure Software (3 credits)
+
 
 *Offered fall 2022* 
 
@@ -124,7 +136,8 @@ Prerequisite: (CS 249 or CYB 404), CS 305
 
  
 
-#### INF 638/ CYB 499: Contemporary Developments (3 credits)
+#### CYB 499: Contemporary Developments (3 credits)
+
 
 *Offered Fall 2022* 
 
@@ -136,6 +149,8 @@ Description: Examines recent trends and investigations in a selected area. Lette
  
 
 #### CYB 402 Applied Cryptography (3 credits)
+
+
 
 *Offered Fall 2022* 
 
@@ -158,6 +173,8 @@ Prerequisites:
  
 
 #### INF 638: Cryptography and Public Key Infrastructure (3 credits)
+
+[:book:](./courses/NAUINF638.pdf)
 
 *Offered Fall 2022* 
 
@@ -206,6 +223,7 @@ Prerequisites: ECE 1331, ENGI 1100, & MATH 2415.  
 ### University of South Carolina <a name="USC"></a>
 
 #### RUSS 121: Introductory Russian (4 credits)
+[:book:](./courses/USCRUSS121.pdf)
 
 *Offered Fall 2022* 
 
@@ -218,6 +236,8 @@ Prerequisites: None.
 
 #### RUSS 122: Basic Proficiency in Russian  (4 credits)
 
+[:book:](./courses/USCRUSS122.pdf)
+
 *Offered Spring 2023* 
 
 
@@ -229,6 +249,7 @@ Prerequisites: RUSS 121
 
 #### ITEC 445: Advanced Networking (3 credits)
 
+[:book:](./courses/USCITEC445.pdf)
 
 Description: This course will cover network infrastructure topics (client/server protocols, routing, switching) with emphasis on hands-on implementations using network operating system software. 
 
@@ -238,7 +259,7 @@ Prerequisites: None
 
 #### ITEC 564: Project Management for Information Systems (3 credits) 
 
-
+[:book:](./courses/USCITEC564.pdf)
 
 Description: Application of project management software, technology, and practices to the design and implementation of real-world information technology projects within a capstone format.
 
