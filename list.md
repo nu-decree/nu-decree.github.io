@@ -25,7 +25,7 @@ Description: Offers an opportunity to conduct introductory-level research or cre
 
 Prerequisites: Permission of the instructor.
 
-#### CS 3950: Introduction to Computer Science Research  [📖](./courses/NUCS3950.pdf)
+#### CS 3950: Introduction to Computer Science Research  [Syllabus](./courses/NUCS3950.pdf)
 
 *Offered Fall 2022* 
 
@@ -86,7 +86,7 @@ Prerequisites: None
 ### Northern Arizona University <a name="NAU"></a>
 
 
-#### PHY 331 - Electricity and Magnetism I (3 credits)     [📖](./courses/NAUPHY331.pdf)
+#### PHY 331 - Electricity and Magnetism I (3 credits)     [Syllabus](./courses/NAUPHY331.pdf)
 
 *Offered Fall 2022* 
 
@@ -108,7 +108,7 @@ Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher)
 
  
 
-#### CYB 310 Malware Analysis (3 credits)   [📖](./courses/NAUCYB310.pdf)
+#### CYB 310 Malware Analysis (3 credits)   [Syllabus](./courses/NAUCYB310.pdf)
 
 *Offered Fall 2022* 
 
@@ -163,7 +163,7 @@ Prerequisites:
 
  
 
-#### INF 638: Cryptography and Public Key Infrastructure (3 credits)   [:book:](./courses/NAUINF638.pdf)
+#### INF 638: Cryptography and Public Key Infrastructure (3 credits)   [Syllabus](./courses/NAUINF638.pdf)
 
 *Offered Fall 2022* 
 
@@ -210,7 +210,7 @@ Prerequisites: ECE 1331, ENGI 1100, & MATH 2415.  
 
 ### University of South Carolina <a name="USC"></a>
 
-#### RUSS 121: Introductory Russian (4 credits).   [:book:](./courses/USCRUSS121.pdf)
+#### RUSS 121: Introductory Russian (4 credits).   [Syllabus](./courses/USCRUSS121.pdf)
 
 *Offered Fall 2022* 
 
@@ -221,7 +221,7 @@ Prerequisites: None.
 
  
 
-#### RUSS 122: Basic Proficiency in Russian  (4 credits).   [:book:](./courses/USCRUSS122.pdf)
+#### RUSS 122: Basic Proficiency in Russian  (4 credits).   [Syllabus](./courses/USCRUSS122.pdf)
 
 *Offered Spring 2023* 
 
@@ -232,7 +232,7 @@ Prerequisites: RUSS 121
 
  
 
-#### ITEC 445: Advanced Networking (3 credits).   [:book:](./courses/USCITEC445.pdf)
+#### ITEC 445: Advanced Networking (3 credits).   [Syllabus](./courses/USCITEC445.pdf)
 
 Description: This course will cover network infrastructure topics (client/server protocols, routing, switching) with emphasis on hands-on implementations using network operating system software. 
 
@@ -240,7 +240,7 @@ Prerequisites: None
 
  
 
-#### ITEC 564: Project Management for Information Systems (3 credits)    [:book:](./courses/USCITEC564.pdf)
+#### ITEC 564: Project Management for Information Systems (3 credits)    [Syllabus](./courses/USCITEC564.pdf)
 
 Description: Application of project management software, technology, and practices to the design and implementation of real-world information technology projects within a capstone format.
 
