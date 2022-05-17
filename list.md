@@ -39,7 +39,7 @@ Prerequisites: CS 2500, equivalent, or permission of the instructor.
  
 
 #### CY 3740/CY 5130: Systems Security (4 credits)   
-:book: [Syllabus](./courses/NUcy3740.pdf)
+:book: [Syllabus](./courses/NUCY3740.pdf)
 
 *Offered Fall 2022* 
 
