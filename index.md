@@ -2,7 +2,7 @@
 ---
 
 ### [1. The Viceroy DECREE Virtual Institute](#decree)
-### [2. DECREE Applications](#applications)
+### [2. DECREE Scholars' Applications](#applications)
 ### [3. DECREE Course Curricula](#curricula)
 ### [4. Become a mentor for DECREE Scholars](#mentors)
 ### [5. DECREE Calendar](#calendar)
@@ -24,7 +24,7 @@ The VICEROY DECREE VI will establish a shared curriculum that will deliver advan
 
 ---
 
-# 2.  Applicantions <a name="applications"/>
+# 2.  DECREE Scholars' Applications <a name="applications"/>
 
 Northeastern University is seeking applications from current undergraduate students to join our inaugural cohort of VICEROY DECREE scholars. 
 
