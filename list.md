@@ -26,7 +26,7 @@ Description: Offers an opportunity to conduct introductory-level research or cre
 Prerequisites: Permission of the instructor.
 
 #### CS 3950: Introduction to Computer Science Research  
-:book: [Syllabus](./courses/NUCS3950.pdf)
+[Syllabus](./courses/NUCS3950.pdf)
 
 *Offered Fall 2022* 
 
@@ -39,7 +39,7 @@ Prerequisites: CS 2500, equivalent, or permission of the instructor.
  
 
 #### CY 3740/CY 5130: Systems Security (4 credits)   
-:book: [Syllabus](./courses/NUCY3740.pdf)
+[Syllabus](./courses/NUCY3740.pdf)
 
 *Offered Fall 2022* 
 
@@ -50,7 +50,7 @@ Prerequisites: Good understanding of the Linux command line, python and C langua
  
 
 #### CY 4760/6760: Security of Wireless and Mobile Systems (4 credits)   
-:book: [Syllabus](./courses/NUCY4760.pdf)
+[Syllabus](./courses/NUCY4760.pdf)
 
 *Offered Spring 2023* 
 
@@ -63,7 +63,7 @@ Prerequisites: None
  
 
 #### CY 4930: Cybersecurity Capstone (4 credits)     
-:book: [Syllabus](./courses/NUCY4930.pdf)
+ [Syllabus](./courses/NUCY4930.pdf)
 
 *Offered Spring 2023* 
 
@@ -71,7 +71,7 @@ Description: Provides the culmination of the learned principles and methodologie
 
 
 #### CHNS 1101: Elementary Chinese 1 (4 credits)    
-:book: [Syllabus](./courses/NUCHNS1101.pdf)
+ [Syllabus](./courses/NUCHNS1101.pdf)
 
 *Offered Fall and Spring* 
 
@@ -92,7 +92,7 @@ Prerequisites: None
 
 
 #### PHY 331 - Electricity and Magnetism I (3 credits)     
-:book: [Syllabus](./courses/NAUPHY331.pdf)
+[Syllabus](./courses/NAUPHY331.pdf)
 
 *Offered Fall 2022* 
 
@@ -115,7 +115,7 @@ Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher)
  
 
 #### CYB 310 Malware Analysis (3 credits)   
-:book: [Syllabus](./courses/NAUCYB310.pdf)
+ [Syllabus](./courses/NAUCYB310.pdf)
 
 *Offered Fall 2022* 
 
@@ -171,7 +171,7 @@ Prerequisites:
  
 
 #### INF 638: Cryptography and Public Key Infrastructure (3 credits)   
-:book: [Syllabus](./courses/NAUINF638.pdf)
+ [Syllabus](./courses/NAUINF638.pdf)
 
 *Offered Fall 2022* 
 
@@ -219,7 +219,7 @@ Prerequisites: ECE 1331, ENGI 1100, & MATH 2415.  
 ### University of South Carolina <a name="USC"></a>
 
 #### RUSS 121: Introductory Russian (4 credits).   
-:book: [Syllabus](./courses/USCRUSS121.pdf)
+[Syllabus](./courses/USCRUSS121.pdf)
 
 *Offered Fall 2022* 
 
@@ -231,7 +231,7 @@ Prerequisites: None.
  
 
 #### RUSS 122: Basic Proficiency in Russian  (4 credits).   
-:book: [Syllabus](./courses/USCRUSS122.pdf)
+ [Syllabus](./courses/USCRUSS122.pdf)
 
 *Offered Spring 2023* 
 
@@ -243,7 +243,7 @@ Prerequisites: RUSS 121
  
 
 #### ITEC 445: Advanced Networking (3 credits).   
-:book: [Syllabus](./courses/USCITEC445.pdf)
+ [Syllabus](./courses/USCITEC445.pdf)
 
 Description: This course will cover network infrastructure topics (client/server protocols, routing, switching) with emphasis on hands-on implementations using network operating system software. 
 
@@ -252,7 +252,7 @@ Prerequisites: None
  
 
 #### ITEC 564: Project Management for Information Systems (3 credits)    
-:book: [Syllabus](./courses/USCITEC564.pdf)
+[Syllabus](./courses/USCITEC564.pdf)
 
 Description: Application of project management software, technology, and practices to the design and implementation of real-world information technology projects within a capstone format.
 
