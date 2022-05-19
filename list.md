@@ -147,7 +147,7 @@ Description: Examines recent trends and investigations in a selected area. Lette
  
 
 #### CYB 402 Applied Cryptography (3 credits)
-
+ [Syllabus](./courses/NAUCYB402.pdf)
 
 
 *Offered Fall 2022* 
