@@ -12,9 +12,11 @@ This curricula is organized by the consortium University offer:
 ---
 ##### You can find syllabus for most of these courses, however courses content may vary and the syllabus just provides a preliminary content of the course based on previous semesters.
 ---
-
+## Courses in Areas and Universities
 ![Courses in Areas and Universities](./courses/map.png)
+> Details of courses provided bellow
 
+---
 ### Northeastern University <a name="NU"></a>
 
 ### CY 2991. Research in Cybersecurity (4 credits)
