@@ -61,7 +61,8 @@ Prerequisite(s): CS 2510 or DS 2500
 
 
 #### DS 3500 Advanced Programming with Data (4 credits)
- [Syllabus](./courses/NUDS3500.pdf)
+ [Syllabus](./courses/NUDS3500.pdf). 
+ 
 Description: Provides a deep-dive into the design and implementation of enterprise-grade software systems with an emphasis on software architectures for more complex data-driven applications. Covers extensible architectures that support testing, data provenance, reuse, maintainability, scalability, and robustness; building software APIs and libraries for wide-scale adoption and ease-of-use. Students will learn how to design implement and test complex loosely-coupled service-oriented architectures and will learn how to use the python programming language for distributed processing, stream-based data processing, and inter-process communication via message-passing. Homework assignments will center around a semester-long project exploring various topical machine learning themes possibly including but not limited to: library construction for data cleansing, analysis, and data mining, sentiment analysis and natural-language processing, scientific computing problems in bioinformatics, astronomical data analysis, or healthcare. Student will explore the features, capabilities, and underlying design of popular data analysis and visualization frameworks. 
 
 Prerequisites: DS2000,DS2500
