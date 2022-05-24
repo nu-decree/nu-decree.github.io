@@ -5,7 +5,7 @@
 ### [2. DECREE Scholars' Applications](#applications)
 ### [3. DECREE Course Curricula](#curricula)
 ### [4. Become a mentor for DECREE Scholars](#mentors)
-### [5. DECREE Calendar](#calendar)
+### [DECREE Calendar](#calendar)
 
 <p>
 <h2 align="center"> Interested? </h2>
@@ -84,7 +84,7 @@ Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as 
 
 ---
 
-## 5. Calendar <a name="calendar"/> 
+## Calendar <a name="calendar"/> 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showTitle=0&showCalendars=1&showPrint=1&src=bnVkZWNyZWVAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
