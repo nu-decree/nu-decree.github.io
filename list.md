@@ -14,7 +14,7 @@ This curricula is organized by the consortium University offer:
 ---
 ## Courses by topic and univerisity
 ![Courses in Areas and Universities](./courses/map.png)
-> Details of courses provided bellow
+> Course details are provided bellow
 
 ---
 ### Northeastern University <a name="NU"></a>
