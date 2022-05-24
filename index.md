@@ -60,13 +60,14 @@ Depending on scholars' background they can select courses which complement their
   - Courses amplifying and extending existing student’s background and skills
 
 Course curricula is divided into the following areas: 
-  - (A1) Electro-Magnetic Spectrum
-  - (A2) Cybersecurity
-  - (A3) Cryptography
-  - (A4) Data Science
-  - (A5) Strategic Foreing Language
+  - Electro-Magnetic Spectrum
+  - Cybersecurity
+  - Cryptography
+  - Data Science
+  - Strategic Foreing Language
+  - Research
 
-+ You can see the list of [courses curricula here](./list.md)
++ You can find the list of [courses curricula here](./list.md)
 
 
 
