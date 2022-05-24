@@ -28,17 +28,6 @@ Description: Offers an opportunity to conduct introductory-level research or cre
 
 Prerequisites: Permission of the instructor.
 
-#### CS 3950: Introduction to Computer Science Research  
-[Syllabus](./courses/NUCS3950.pdf)
-
-*Offered Fall 2022* 
-
-Description: Provides students with an introduction to research in the fields of computer science, information science, data science, and cybersecurity. Explores how the scientific method is applied to these fields, covers the breadth of sub-areas of specialty that exist, and gives students practice on how to locate and read scientific literature in different sub-areas. Also provides students with an overview of graduate education in these fields. 
-
-> VICEROY DECREE Virtual Institute Students will focus their research area into those determined by the VICEROY special interest areas. 
-
-Prerequisites: CS 2500, equivalent, or permission of the instructor. 
-
  
 
 #### CY 3740/CY 5130: Systems Security (4 credits)   
@@ -63,7 +52,19 @@ This course provides the foundations to understand the security and privacy thre
 
 Prerequisites: None 
 
- 
+
+#### DS 3000 Foundations of Data Science (4 credits)
+
+Description: Introduces core modern data science technologies and methods that provide a foundation for subsequent Data Science classes. Covers: working with tensors and applied linear algebra in standard numerical computing libraries (e.g., NumPy); processing and integrating data from a variety of structured and unstructured sources; introductory concepts in probability, statistics, and machine learning; basic data visualization techniques; and now standard data science tools such as Jupyter notebooks.
+
+Prerequisite(s): CS 2510 or DS 2500 
+
+
+#### DS 3500 Advanced Programming with Data (4 credits)
+ [Syllabus](./courses/NUDS3500.pdf)
+Description: Provides a deep-dive into the design and implementation of enterprise-grade software systems with an emphasis on software architectures for more complex data-driven applications. Covers extensible architectures that support testing, data provenance, reuse, maintainability, scalability, and robustness; building software APIs and libraries for wide-scale adoption and ease-of-use. Students will learn how to design implement and test complex loosely-coupled service-oriented architectures and will learn how to use the python programming language for distributed processing, stream-based data processing, and inter-process communication via message-passing. Homework assignments will center around a semester-long project exploring various topical machine learning themes possibly including but not limited to: library construction for data cleansing, analysis, and data mining, sentiment analysis and natural-language processing, scientific computing problems in bioinformatics, astronomical data analysis, or healthcare. Student will explore the features, capabilities, and underlying design of popular data analysis and visualization frameworks. 
+
+Prerequisites: DS2000,DS2500
 
 #### CY 4930: Cybersecurity Capstone (4 credits)     
  [Syllabus](./courses/NUCY4930.pdf)
