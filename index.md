@@ -11,6 +11,8 @@
 <h2 align="center"> Interested? </h2>
 <h3 align="center"> Please <a href="https://neu.co1.qualtrics.com/jfe/form/SV_4NrFdmk39xDWZwO">Register for our ON-LINE informative session on Wednesday May 25th 4pm.</a> </h3>
 <h3 align="center">  <a href="https://northeastern.zoom.us/j/97775967800?pwd=dDBmK0MzN0pvdTZIdTM1cmljOEk0Zz09"> Zoom Link for connection</a> </h3>
+---
+<h2 align="center"> Priority Application Deadline is May 31st </h2>
 </p>
 
 ---
@@ -42,6 +44,7 @@ Scholars will be eligible to take virtual, credit-bearing coursework from consor
 + Must be security-clearance eligible
 
 **[Download Application form here](./doc/decreeapp.pdf)**
+### --- The Priority Application Deadline is May 31st ---
 
 The application process is described in the following flow-chart:
 
