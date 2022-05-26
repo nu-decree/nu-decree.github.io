@@ -129,7 +129,7 @@ Prerequisite: CS 205, CYB 136, and MAT 226 with grades of C or better in each
  
 
 #### CYB 410 Secure Software (3 credits)
-
+[Syllabus](./courses/NAUCUB410.pdf)
 
 *Offered fall 2022* 
 
@@ -162,16 +162,17 @@ Description: A practice-oriented approach to cryptography with topics in encrypt
 
 Prerequisite: CS 205, CYB 136, MAT 226, and (STA 270 or STA 275) with grades of C or better in each letter grade only. 
 
- 
 
-#### EE-CS 485/685: Undergraduate/graduate research (3 credits)
+#### CYB 410 Secure Software (3 credits)
+ [Syllabus](./courses/NAUCYB410.pdf)
+
 
 *Offered Fall 2022* 
 
 
-Description: Original research under the supervision of a research adviser. May be repeated for up to 12 units of credit. Department consent. Pass-fail or letter grade. 
+Description: This course prepares students to understand and defend against software attacks through static and dynamic analysis of software systems. The course requires prior experience with software development and network security. This course explores cutting edge tools used in software system analysis and design, which develops critical skills needed in CYB 486C Capstone. By developing the skills to understand and analyze software systems, students also learn how software exploits can be discovered and can be guarded against in advanced software engineering practice. This is a required course in the B.S. in Cybersecurity curriculum and a pre-requisite for CYB 486C. This class also directly supports several program student outcomes through its subject matter, student learning, activities, and assessment (student outcomes 1, 2, and 6).
 
-Prerequisites: 
+Prerequisite: Pre-requisites: (CS249 or CYB 404) and CS 305. 
 
  
 
@@ -191,7 +192,7 @@ Prerequisites: Graduate status
 ### University of Houston <a name="HOU"></a>
 
 #### ECE 3317 - Applied Electromagnetic Waves (3 credits)
-
+ [Syllabus](./courses/UHECE3317.pdf)
 *Offered Fall 2022* 
 
 Description: Maxwell’s equations in time and frequency domains, Poynting’s theorem, plane wave propagation, reflection and transmission in lossless and lossy media, transmission lines, waveguides, and antennas.  
@@ -200,7 +201,7 @@ Prerequisites: PHYS 2126 and PHYS 2326.  
  
 
 #### ECE 3318 - Applied Electricity and Magnetism (3 credits)
-
+ [Syllabus](./courses/UHECE3318.pdf)
 *Offered Spring 2023* 
 
 
@@ -209,7 +210,9 @@ Prerequisites: PHYS 2126 and PHYS 2326.  
 Prerequisites: ENGI 1100, ENGI 1331, MATH 2415, MATH 3321, PHYS 2326, PHYS 2126.  
  
 
-#### ECE 5357 - Introduction to Cybersecurity (3 credits)
+#### ECE 5397 - Introduction to Cybersecurity (3 credits)
+
+ [Syllabus](./courses/UHECE5397.pdf)
 
 *Offered Spring 2023* 
 
