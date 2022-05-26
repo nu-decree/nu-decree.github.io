@@ -54,6 +54,7 @@ Prerequisites: None
 
 
 #### DS 3000 Foundations of Data Science (4 credits)
+ [Syllabus](./courses/NUDS3000.pdf). 
 
 Description: Introduces core modern data science technologies and methods that provide a foundation for subsequent Data Science classes. Covers: working with tensors and applied linear algebra in standard numerical computing libraries (e.g., NumPy); processing and integrating data from a variety of structured and unstructured sources; introductory concepts in probability, statistics, and machine learning; basic data visualization techniques; and now standard data science tools such as Jupyter notebooks.
 
