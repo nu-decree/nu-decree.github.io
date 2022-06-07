@@ -140,13 +140,15 @@ Prerequisite: (CS 249 or CYB 404), CS 305
 
  
 
-#### CYB 499: Contemporary Developments (3 credits)
+#### CYB499/CS485 Undergraduate Research
+
+Students are encouraged to gain experience in their chosen field(s) by undertaking educational experiences outside of regular class work by pursuing credit for Individualize Studies. Academic credit for this work is offered through University Course Lines that can be offered under the course prefix of the supporting unit in which the experienced is offered. Departments may limit the number of credit hours that can be taken in any instance and that can be used towards meeting major or minor requirements. Check with your major or minor department for its policy.
 
 
 *Offered Fall 2022* 
 
 
-Description: Examines recent trends and investigations in a selected area. Letter grade only. May be repeated up to a maximum of 6 units. 
+Description: Examines recent trends and investigations in a selected area. Letter grade only. 
 
 > VICEROY DECREE Virtual Institute Students will focus their research  into those determined by the VICEROY special interest areas. 
 
