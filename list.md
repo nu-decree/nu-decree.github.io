@@ -182,7 +182,7 @@ Prerequisite: Pre-requisites: (CS249 or CYB 404) and CS 305.
 #### INF 638: Cryptography and Public Key Infrastructure (3 credits)   
  [Syllabus](./courses/NAUINF638.pdf)
 
-*Offered Fall 2022* 
+*Not available Fall 2022* 
 
 
 Description: Study of methods, techniques, and research areas in cryptography and public key infrastructure to strengthen cybersecurity. Letter grade only. 
