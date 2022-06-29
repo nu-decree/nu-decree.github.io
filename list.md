@@ -145,7 +145,7 @@ Prerequisite: (CS 249 or CYB 404), CS 305
 Students are encouraged to gain experience in their chosen field(s) by undertaking educational experiences outside of regular class work by pursuing credit for Individualize Studies. Academic credit for this work is offered through University Course Lines that can be offered under the course prefix of the supporting unit in which the experienced is offered. Departments may limit the number of credit hours that can be taken in any instance and that can be used towards meeting major or minor requirements. Check with your major or minor department for its policy.
 
 
-*Offered Fall 2022* 
+*Offered* **Fall 2023** 
 
 
 Description: Examines recent trends and investigations in a selected area. Letter grade only. 
@@ -182,7 +182,7 @@ Prerequisite: Pre-requisites: (CS249 or CYB 404) and CS 305.
 #### INF 638: Cryptography and Public Key Infrastructure (3 credits)   
  [Syllabus](./courses/NAUINF638.pdf)
 
-*Not available Fall 2022* 
+*Offered* **Fall 2023** 
 
 
 Description: Study of methods, techniques, and research areas in cryptography and public key infrastructure to strengthen cybersecurity. Letter grade only. 
