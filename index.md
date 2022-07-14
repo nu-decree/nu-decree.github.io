@@ -1,4 +1,4 @@
-![](./images/decree_head2.png)
+![](./images/decree_head.png)
 ---
 
 ### [1. The Viceroy DECREE Virtual Institute](#decree)
