@@ -9,7 +9,13 @@
 
 
 ---
-**https://neu.co1.qualtrics.com/jfe/form/SV_aYuDzdj1O3UYsXI**
+
+<p>
+<h2 align="center"> Interested? </h2>
+<h3 align="center"> Please <a href="https://neu.co1.qualtrics.com/jfe/form/SV_aYuDzdj1O3UYsXI">Register for our ON-LINE informative session on September 23rd 2022.</a> </h3>
+<h3 align="center">  <a href=""> </a> </h3>
+<h2 align="center">  </h2>
+</p>
 
 ---
 
