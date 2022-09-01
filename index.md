@@ -70,7 +70,7 @@ Course curricula is divided into the following areas:
   - Cybersecurity
   - Cryptography
   - Data Science
-  - Strategic Foreing Language
+  - Strategic Foreign Language
   - Research
 
 + You can find the list of [courses curricula here](./list.md)

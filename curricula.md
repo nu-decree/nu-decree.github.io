@@ -14,7 +14,7 @@
 + (A2) Cybersecurity
 + (A3) Cryptography
 + (A4) Data Science
-+ (A5) Strategic Foreing Language
++ (A5) Strategic Foreign Language
 
 
 ## Credits
