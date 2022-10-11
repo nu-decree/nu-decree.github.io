@@ -5,7 +5,9 @@
 ### [2. DECREE Scholars' Applications](#applications)
 ### [3. DECREE Course Curricula](#curricula)
 ### [4. Become a mentor for DECREE Scholars](#mentors)
+### [5. Applications for interns for Viceroy Summer Program](interns)
 ### [DECREE Calendar](#calendar)
+
 
 
 ---
@@ -89,7 +91,16 @@ Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as 
 > Mentors will be provided with a small stipend for their participation and efforts.
 
 ---
+# 5. Applications for interns for Viceroy Summer Program
+ 	
+Here is the 2023 Application for interns for our VICEROY 2023 Summer program. This is for returning interns from 2022 as well as any new interns who wish to be considered for a summer internship. any questions please email viceroyintern@griffissinstitute.org
 
+Application  will close on Dec. 31st 2022. All students will need to fill the following form as well as list a university reference who will receive an email asking them to complete a quick reference for their student.
+
+[VICEROY Intern Application - READ CAREFULLY](https://app.smartsheet.com/b/form/17d56d5964124697bbf884c458509ee4)
+
+
+---
 ## Calendar <a name="calendar"/> 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&showTitle=0&showCalendars=1&showPrint=1&src=bnVkZWNyZWVAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
