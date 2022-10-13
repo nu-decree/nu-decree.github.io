@@ -100,7 +100,7 @@ Prerequisites: None
 #### PHY 331 - Electricity and Magnetism I (3 credits)     
 [Syllabus](./courses/NAUPHY331.pdf)
 
-*Offered Fall 2022* 
+*Offered Spring TBD * 
 
 Description: Electrostatistics, magnetostatistics, Lorentz force, fields in matter, electromagnetic induction. Letter grade only. 
 
@@ -112,7 +112,7 @@ Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher)
 
 
 
-*Offered Fall 2022* 
+*Offered Fall TBD* 
 
 Description: Maxwell's equations, scalar and vector potentials, Laplace's equation, boundary value problems, plane waves, and radiation. Letter grade only. 
 
@@ -123,7 +123,7 @@ Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher)
 #### CYB 310 Malware Analysis (3 credits)   
  [Syllabus](./courses/NAUCYB310.pdf)
 
-*Offered Fall 2022* 
+*Offered **Spring 2023** 
 
 Description: Introduction to reverse engineering techniques for the identification, classification, and analysis of malware using disassembly, virtual machines, static analysis, and dynamic analysis. Letter grade only. 
 Prerequisite: CS 205, CYB 136, and MAT 226 with grades of C or better in each 
@@ -132,7 +132,7 @@ Prerequisite: CS 205, CYB 136, and MAT 226 with grades of C or better in each
 #### CYB 410 Secure Software (3 credits)
 [Syllabus](./courses/NAUCUB410.pdf)
 
-*Offered fall 2022* 
+* Offered Fall * 
 
 Description: Covers a broad array of topics in software security and security engineering that concern software systems. Famous vulnerabilities will be examined (e.g., Heartbleed and Apple's "goto fail") with an emphasis on how such problems can be prevented, detected, and exploited. Letter grade only. 
 
@@ -140,12 +140,12 @@ Prerequisite: (CS 249 or CYB 404), CS 305
 
  
 
-#### CYB499/CS485 Undergraduate Research
+#### CYB486 Capstone
 
 Students are encouraged to gain experience in their chosen field(s) by undertaking educational experiences outside of regular class work by pursuing credit for Individualize Studies. Academic credit for this work is offered through University Course Lines that can be offered under the course prefix of the supporting unit in which the experienced is offered. Departments may limit the number of credit hours that can be taken in any instance and that can be used towards meeting major or minor requirements. Check with your major or minor department for its policy.
 
 
-*Offered* **Fall 2023** 
+*Offered* **Spring 2023** 
 
 
 Description: Examines recent trends and investigations in a selected area. Letter grade only. 
