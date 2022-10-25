@@ -32,13 +32,20 @@ Prerequisites: Permission of the instructor.
 
 #### CY 3740/CY 5130: Systems Security (4 credits)   
 [Syllabus](./courses/NUCY3740.pdf)
-
 *Offered Fall 2022* 
 
-Description: Offers a practical overview of enterprise computer security, operating systems security, and related topics. Applies concepts such as authentication, access control, integrity, and audit to the modern operating system. Discusses and demonstrates system, process, memory, and filesystem-level defenses and the attacks against them. Also discusses topics in systems security assessment and cloud security. 
 
-Prerequisites: Good understanding of the Linux command line, python and C languages, and experience using docker containers. 
 
++ Description: Offers a practical overview of enterprise computer security, operating systems security, and related topics. Applies concepts such as authentication, access control, integrity, and audit to the modern operating system. Discusses and demonstrates system, process, memory, and filesystem-level defenses and the attacks against them. Also discusses topics in systems security assessment and cloud security. 
+
++ Prerequisites: Good understanding of the Linux command line, python and C languages, and experience using docker containers. 
+
++ Workforce Framework for Cybersecurity (NICE Framework) 
+
+   |Knowledge ID| Work Role |
+   |------------|-----------|
+   |[K0290](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0290)| [Systems Security Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-security-analyst)|
+   |  | [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
  
 
 #### CY 4760/6760: Security of Wireless and Mobile Systems (4 credits)   
@@ -46,11 +53,17 @@ Prerequisites: Good understanding of the Linux command line, python and C langua
 
 *Offered Spring 2023* 
 
-Description: This course focuses on Security and Privacy in Mobile and Wireless Systems. Recent years have seen massive deployment of wireless devices and technologies around us. They are deployed in a wide variety of systems such as telephony, navigation, sensor networks, critical infrastructures etc. With the advent of the Internet of Things and autonomous cyber-physical systems, the proliferation of these wireless systems is only bound to increase. The broadcast nature of wireless technologies and the increased availability of software defined radios have not only improved quality of life but pose significant security challenges. 
++ Description: This course focuses on Security and Privacy in Mobile and Wireless Systems. Recent years have seen massive deployment of wireless devices and technologies around us. They are deployed in a wide variety of systems such as telephony, navigation, sensor networks, critical infrastructures etc. With the advent of the Internet of Things and autonomous cyber-physical systems, the proliferation of these wireless systems is only bound to increase. The broadcast nature of wireless technologies and the increased availability of software defined radios have not only improved quality of life but pose significant security challenges. 
 
 This course provides the foundations to understand the security and privacy threats and defenses in wireless and mobile systems especially in the era of softwarization of wireless networks. After this course, the students should be able to describe and classify security goals and attacks in modern wireless networks. They should be able to identify the unique security implications of these effects and how to mitigate security issues associated with them. 
 
-Prerequisites: None 
+
++ Workforce Framework for Cybersecurity (NICE Framework) 
+
+   |Knowledge ID| Work Role |
+   |------------|-----------|
+   |[K0438](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0438)| [Cyber Operator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-operator)|
+   |[K0269](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0269) | [Research & Development Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/research-development-specialist)|
 
 
 #### DS 3000 Foundations of Data Science (4 credits)
