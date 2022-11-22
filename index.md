@@ -6,6 +6,7 @@
 ### [3. DECREE Course Curricula](#curricula)
 ### [4. Become a mentor for DECREE Scholars](#mentors)
 ### [5. Applications for interns for Viceroy Summer Program](#interns)
+### [6. Cyber and EMS Careers](#careers)
 ### [DECREE Calendar](#calendar)
 
 
@@ -102,6 +103,20 @@ Here is the 2023 Application for interns for our VICEROY 2023 Summer program. Th
 Application  will close on Dec. 31st 2022. All students will need to fill the following form as well as list a university reference who will receive an email asking them to complete a quick reference for their student.
 
 [VICEROY Intern Application - READ CAREFULLY](https://app.smartsheet.com/b/form/17d56d5964124697bbf884c458509ee4)
+
+
+---
+# 6. Cyber and EMS Careers <a name="careers"/>
+
+
+1.	https://www.disa.mil/careers
+2.	https://www.cybercom.mil/Employment-Opportunities/
+3.	https://www.nsa.gov/careers/
+4.	https://www.goarmy.com/careers-and-jobs/specialty-careers/army-cyber.html
+5.	https://www.airforce.com/careers/in-demand-careers/cyber
+6.	https://www.navy.com/careers/cyber-warfare-engineer
+7.	https://www.gocoastguard.com/active-duty-careers/officer-opportunities/programs/direct-commission-cyber-officer-dcco
+
 
 
 ---
