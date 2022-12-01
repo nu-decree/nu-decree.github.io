@@ -123,11 +123,11 @@ This course provides the foundations to understand the security and privacy thre
      |Knowledge ID| Work Role |
    |------------|-----------|
    |[K0550](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0550)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
-   |[K0545]()| []()| 
-   |[K0416]()| []()|
-   |[K0407]()| []()| 
-   |[K0476]()| []()| 
-   |[K0574]()| []()|  
+   |[K0545](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0545)| []()| 
+   |[K0416](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0416)| []()|
+   |[K0407](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0407)| []()| 
+   |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| []()| 
+   |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
 
  
 ---
@@ -334,11 +334,11 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
     |Knowledge ID| Work Role |
    |------------|-----------|
    |[K0550](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0550)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
-   |[K0545]()| []()| 
-   |[K0416]()| []()|
-   |[K0407]()| []()| 
-   |[K0476]()| []()| 
-   |[K0574]()| []()| 
+   |[K0545](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0545)| []()| 
+   |[K0416](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0416)| []()|
+   |[K0407](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0407)| []()| 
+   |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| []()| 
+   |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
  
 
 #### RUSS 122: Basic Proficiency in Russian  (4 credits).   
@@ -356,11 +356,11 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
     |Knowledge ID| Work Role |
    |------------|-----------|
    |[K0550](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0550)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
-   |[K0545]()| []()| 
-   |[K0416]()| []()|
-   |[K0407]()| []()| 
-   |[K0476]()| []()| 
-   |[K0574]()| []()|  
+   |[K0545](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0545)| []()| 
+   |[K0416](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0416)| []()|
+   |[K0407](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0407)| []()| 
+   |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| []()| 
+   |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
 
 #### ITEC 445: Advanced Networking (3 credits).   
  [Syllabus](./courses/USCITEC445.pdf)
