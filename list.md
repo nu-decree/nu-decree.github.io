@@ -179,7 +179,7 @@ This course provides the foundations to understand the security and privacy thre
    |[]()| [Target Network Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-network-analyst)|
 
 #### CYB 410 Secure Software (3 credits)
-[Syllabus](./courses/NAUCUB410.pdf)
+[Syllabus](./courses/NAUCYB410.pdf)
 
 * Offered Fall * 
 
