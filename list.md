@@ -136,6 +136,9 @@ This course provides the foundations to understand the security and privacy thre
 
 ### Northern Arizona University <a name="NAU"></a>
 
+#### PHY 599 - Advanced Electricity and Magnetism
+
+
 
 #### PHY 331 - Electricity and Magnetism I (3 credits)     
 [Syllabus](./courses/NAUPHY331.pdf)
