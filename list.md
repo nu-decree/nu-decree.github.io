@@ -343,7 +343,7 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
    |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| []()| 
    |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
  
-
+<!---
 #### RUSS 122: Basic Proficiency in Russian  (4 credits).   
  [Syllabus](./courses/USCRUSS122.pdf)
 
@@ -364,6 +364,8 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
    |[K0407](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0407)| []()| 
    |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| []()| 
    |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
+-->
+
 
 #### ITEC 445: Advanced Networking (3 credits).   
  [Syllabus](./courses/USCITEC445.pdf)
