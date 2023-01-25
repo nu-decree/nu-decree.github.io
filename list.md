@@ -120,16 +120,17 @@ This course provides the foundations to understand the security and privacy thre
 
 + Prerequisites: None 
 + Workforce Framework for Cybersecurity (NICE Framework) 
-     |Knowledge ID| Work Role |
+
+    |Knowledge ID| Work Role |
    |------------|-----------|
    |[K0550](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0550)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
    |[K0545](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0545)| []()| 
    |[K0416](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0416)| []()|
    |[K0407](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0407)| []()| 
    |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| []()| 
-   |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
+   |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()| 
 
- 
+   
 ---
 ---
  
