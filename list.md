@@ -78,9 +78,14 @@ This course provides the foundations to understand the security and privacy thre
    |Knowledge ID| Work Role |
    |------------|-----------|
    |[K0020](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0020)| [Database Administrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/database-administrator)|
-   |[K0022](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0022)| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
-   |[K0083](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0083)| []()|
-   |[K0065](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0065)| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
+   |[]()| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
+   |[K0022](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0022)| [Database Administrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/database-administrator)|
+   |[]()| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
+   |[K0083](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0083)| [Database Administrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/database-administrator)|
+   |[]()| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
+   |[K0065](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0065)| [Database Administrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/database-administrator)|
+   |[]()| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
+   |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
    |[]()| [Information Systems Security Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-developer)|
    |[]()| [Systems Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-developer)|
 
@@ -96,9 +101,14 @@ This course provides the foundations to understand the security and privacy thre
     |Knowledge ID| Work Role |
    |------------|-----------|
    |[K0020](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0020)| [Database Administrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/database-administrator)|
-   |[K0022](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0022)| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
-   |[K0083](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0083)| []()|
-   |[K0065](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0065)| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
+   |[]()| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
+   |[K0022](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0022)| [Database Administrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/database-administrator)|
+   |[]()| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
+   |[K0083](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0083)| [Database Administrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/database-administrator)|
+   |[]()| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
+   |[K0065](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0065)| [Database Administrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/database-administrator)|
+   |[]()| [Data Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/data-analyst)|
+   |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
    |[]()| [Information Systems Security Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-developer)|
    |[]()| [Systems Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-developer)|
 
@@ -178,7 +188,8 @@ This course provides the foundations to understand the security and privacy thre
     |Knowledge ID| Work Role |
    |------------|-----------|
    |[K0259](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0259)| [Cyber Defense Incident Responder](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-incident-responder)|
-   |[K0188](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0188)| [Counterintelligence Forensics Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/law-enforcementcounterintelligence-forensics)|
+   |[K0188](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0188)| [Law Enforcement / Counterintelligence Forensics Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/law-enforcementcounterintelligence-forensics)|
+   |[]()| [Cyber Defense Forensics Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-forensics-analyst)|
    |[K0479](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0479)| [Target Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-developer)|
    |[]()| [Target Network Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-network-analyst)|
 
@@ -338,11 +349,11 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
     |Knowledge ID| Work Role |
    |------------|-----------|
    |[K0550](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0550)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
-   |[K0545](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0545)| []()| 
-   |[K0416](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0416)| []()|
-   |[K0407](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0407)| []()| 
-   |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| []()| 
-   |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
+   |[K0545](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0545)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
+   |[K0416](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0416)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
+   |[K0407](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0407)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
+   |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
+   |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
  
 <!---
 #### RUSS 122: Basic Proficiency in Russian  (4 credits).   
@@ -380,13 +391,23 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
     |Knowledge ID| Work Role |
     |------------|-----------|
     |[K0106](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0106)| [Information Systems Security Manager](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-manager)|
-    |[K0033](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0033)| [Executive Cyber Leadership](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/executive-cyber-leadership)|
+    |[]()| [Executive Cyber Leadership](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/executive-cyber-leadership)|
+    |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
+    |[]()| [Cyber Defense Infrastructure Support Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-infrastructure-support-specialist)|
+    |[]()| [Cyber Defense Incident Responder](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-incident-responder)|
+    |[]()| [Vulnerability Assessment Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/vulnerability-assessment-analyst)|
+    |[K0033](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0033)| [Information Systems Security Manager](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-manager)|
     |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
     |[]()| [Cyber Defense Infrastructure Support Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-infrastructure-support-specialist)|
     |[]()| [Cyber Defense Incident Responder](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-incident-responder)|
     |[]()| [Vulnerability Assessment Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/vulnerability-assessment-analyst)|
     |[K0332](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0332)| [System Adminstrator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/system-administrator)|
     |[]()| [Network Operations Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/network-operations-specialist)|
+    |[]()| [Information Systems Security Manager](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-manager)|
+    |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
+    |[]()| [Cyber Defense Incident Responder](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-incident-responder)|
+    |[]()| [Cyber Defense Infrastructure Support Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-infrastructure-support-specialist)|
+    |[]()| [Vulnerability Assessment Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/vulnerability-assessment-analyst)|
     |[]()| [Enterprise Architect](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/enterprise-architect)|
     |[]()| [Security Architect](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/security-architect)|
     |[]()| [Software Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/software-developer)|
@@ -394,17 +415,28 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
     |[]()| [Information Systems Security Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-developer)|
     |[]()| [Systems Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-developer)|
     |[]()| [System Testing and Evaluation Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/system-testing-and-evaluation-specialist)|
-    |[]()| [Information Systems Security Manager](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-manager)|
     |[K0061](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0061)| [Systems Security Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-security-analyst)|
     |[K0167](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0167)| [Counterintelligence Forensics Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/law-enforcementcounterintelligence-forensics)|
     |[K0179](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0179)| [Research & Development Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/research-development-specialist)|
     |[]()| [Secure Software Assessor](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/secure-software-assessor)|
     |[]()| [Authorizing Offical/Designating Representative](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/authorizing-officialdesignating-representative)|
     |[]()| [Security Control Assessor](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/security-control-assessor)|
-    |[K0111](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0111)| []()|
-    |[K0113](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0113)| []()|
-    |[K0203](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0203)| []()|	
-    |[K0160](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0160)| []()|
+    |[K0111](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0111)| [Network Operations Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/network-operations-specialist)|
+    |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
+    |[K0113](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0113)| [Network Operations Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/network-operations-specialist)|
+    |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
+    |[K0203](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0203)| [Network Operations Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/network-operations-specialist)|
+    |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
+    |[]()| [Systems Security Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-security-analyst)|
+    |[]()| [Vulnerability Assessment Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/vulnerability-assessment-analyst)|
+    |[]()| [Enterprise Architect](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/enterprise-architect)|
+    |[]()| [Authorizing Offical/Designating Representative](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/authorizing-officialdesignating-representative)|
+    |[]()| [Security Control Assessor](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/security-control-assessor)|
+    |[]()| [Information Systems Security Manager](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-manager)|
+    |[]()| [Systems Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-developer)|
+    |[]()| [System Testing and Evaluation Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/system-testing-and-evaluation-specialist)|
+    |[K0160](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0160)| [Network Operations Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/network-operations-specialist)|
+    |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
 
 
 #### ITEC 564: Project Management for Information Systems (3 credits)    
@@ -415,6 +447,3 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
 + Prerequisites: ITEC 362, Web-based Support Systems, and the successful completion with a C or better of ITEC 560, Analysis and Applications of Project Management Software. 
 
 > VICEROY DECREE Virtual Institute Students will focus their research  into those determined by the VICEROY special interest areas. 
-
-
-
