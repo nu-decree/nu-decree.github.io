@@ -13,7 +13,7 @@ This curricula is organized by the consortium University offer:
 ##### You can find syllabus for most of these courses, however courses content may vary and the syllabus just provides a preliminary content of the course based on previous semesters.
 ---
 ## Courses by topic and univerisity
-![Courses in Areas and Universities](./courses/map.png)
+![Courses in Areas and Universities](./courses/sp23list.png)
 > Course details are provided bellow
 
 ---
