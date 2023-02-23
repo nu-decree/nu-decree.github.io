@@ -19,7 +19,7 @@ This curricula is organized by the consortium University offer:
 ---
 ### Northeastern University <a name="NU"></a>
 
-### CY 2991. Research in Cybersecurity (4 credits)
+#### CY 2991. Research in Cybersecurity (4 credits)
 
 *Offered Fall and Spring* 
 Description: Offers an opportunity to conduct introductory-level research or creative endeavors under faculty supervision.  
@@ -32,7 +32,7 @@ Prerequisites: Permission of the instructor.
 
 #### CY 3740/CY 5130: Systems Security (4 credits)   
 [Syllabus](./courses/NUCY3740.pdf)
-*Offered Fall 2022* 
+*Offered Fall and Spring* 
 
 
 
@@ -51,7 +51,7 @@ Prerequisites: Permission of the instructor.
 #### CY 4760/6760: Security of Wireless and Mobile Systems (4 credits)   
 [Syllabus](./courses/NUCY4760.pdf)
 
-*Offered Spring 2023* 
+*Offered Spring* 
 
 + Description: This course focuses on Security and Privacy in Mobile and Wireless Systems. Recent years have seen massive deployment of wireless devices and technologies around us. They are deployed in a wide variety of systems such as telephony, navigation, sensor networks, critical infrastructures etc. With the advent of the Internet of Things and autonomous cyber-physical systems, the proliferation of these wireless systems is only bound to increase. The broadcast nature of wireless technologies and the increased availability of software defined radios have not only improved quality of life but pose significant security challenges. 
 
@@ -68,6 +68,8 @@ This course provides the foundations to understand the security and privacy thre
 
 #### DS 3000 Foundations of Data Science (4 credits)
  [Syllabus](./courses/NUDS3000.pdf). 
+ 
+ *Offered Fall and Spring* 
 
 + Description: Introduces core modern data science technologies and methods that provide a foundation for subsequent Data Science classes. Covers: working with tensors and applied linear algebra in standard numerical computing libraries (e.g., NumPy); processing and integrating data from a variety of structured and unstructured sources; introductory concepts in probability, statistics, and machine learning; basic data visualization techniques; and now standard data science tools such as Jupyter notebooks.
 
@@ -91,6 +93,7 @@ This course provides the foundations to understand the security and privacy thre
 
 #### DS 3500 Advanced Programming with Data (4 credits)
  [Syllabus](./courses/NUDS3500.pdf). 
+ *Offered Fall and Spring* 
  
 + Description: Provides a deep-dive into the design and implementation of enterprise-grade software systems with an emphasis on software architectures for more complex data-driven applications. Covers extensible architectures that support testing, data provenance, reuse, maintainability, scalability, and robustness; building software APIs and libraries for wide-scale adoption and ease-of-use. Students will learn how to design implement and test complex loosely-coupled service-oriented architectures and will learn how to use the python programming language for distributed processing, stream-based data processing, and inter-process communication via message-passing. Homework assignments will center around a semester-long project exploring various topical machine learning themes possibly including but not limited to: library construction for data cleansing, analysis, and data mining, sentiment analysis and natural-language processing, scientific computing problems in bioinformatics, astronomical data analysis, or healthcare. Student will explore the features, capabilities, and underlying design of popular data analysis and visualization frameworks. 
 
@@ -115,7 +118,7 @@ This course provides the foundations to understand the security and privacy thre
 #### CY 4930: Cybersecurity Capstone (4 credits)     
  [Syllabus](./courses/NUCY4930.pdf)
 
-*Offered Spring 2023* 
+*Offered Spring* 
 
 + Description: Provides the culmination of the learned principles and methodologies for identifying and addressing Cybersecurity issues in organizations. Students bring their individual skills and abilities to create a solution to a real-world cybersecurity problem/challenge. Students will work in small groups to identify and scope the information security problem/challenge, create a project plan to develop a solution to include the development and identification of the data necessary to properly solve the problem/challenge, develop a final report (whose intended audience are senior business executives) and participate in the MSCY Capstone Event to present the results they have obtained. Further the students will be required to manage and develop the project using some SCRUM methodology tools. In this way, sprints will be planned for each project and the team will deliver the product after each sprint iteratively and incrementally, maximizing opportunities for feedback. 
 
@@ -148,8 +151,12 @@ This course provides the foundations to understand the security and privacy thre
 ### Northern Arizona University <a name="NAU"></a>
 
 #### PHY 599 - Advanced Electricity and Magnetism
+[Syllabus](./courses/NAUPHY599.pdf)
 
++ Description: Introduce students to modern electrodynamic theory and methods, including; Special function approaches to analytical solutions to electrostatic, magnetostatic and electrodynamic problems; Maxwell’s equations in matter; Multipolar analysis; Conservations laws; and Electromagnetic energy and momentum. Mathematical analysis of Maxwell’s equations is a central component of this class, including eigenfunction analysis, partial differential equations, and vector calculus. Completion of this course will prepare students to analyze and solve a variety of problems in electricity and magnetism.
++ Prerequisites: Undergraduate Electricity and Magnetism I & II
 
+<!--
 
 #### PHY 331 - Electricity and Magnetism I (3 credits)     
 [Syllabus](./courses/NAUPHY331.pdf)
@@ -159,25 +166,35 @@ This course provides the foundations to understand the security and privacy thre
 + Description: Electrostatistics, magnetostatistics, Lorentz force, fields in matter, electromagnetic induction. Letter grade only. 
 
 + Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher) 
-
+-->
  
 
 #### PHY 332 - Electricity and Magnetism II (3 credits)
 
 
 
-*Offered Fall TBD* 
+*Offered Fall * 
 
 + Description: Maxwell's equations, scalar and vector potentials, Laplace's equation, boundary value problems, plane waves, and radiation. Letter grade only. 
 
 + Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher) 
 
  
+#### CYB 126/136 Secure Design I/II (4 credits)   
+ [Syllabus](./courses/NAUCYB126.pdf)
+
+*Offered Fand and Spring * 
+
++ Description: Introduction to the foundations of computer software and digital hardware and defensive design strategies.  Topics include programming, digital logic design, state machines, input validation, error handling, and bug mitigation.
+ 
++ Workforce Framework for Cybersecurity (NICE Framework) 
+
+
 
 #### CYB 310 Malware Analysis (3 credits)   
  [Syllabus](./courses/NAUCYB310.pdf)
 
-*Offered Spring 2023* 
+*Offered Spring * 
 
 + Description: Introduction to reverse engineering techniques for the identification, classification, and analysis of malware using disassembly, virtual machines, static analysis, and dynamic analysis. Letter grade only. 
 
@@ -192,35 +209,6 @@ This course provides the foundations to understand the security and privacy thre
    |[]()| [Cyber Defense Forensics Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-forensics-analyst)|
    |[K0479](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0479)| [Target Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-developer)|
    |[]()| [Target Network Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-network-analyst)|
-
-#### CYB 410 Secure Software (3 credits)
-[Syllabus](./courses/NAUCYB410.pdf)
-
-* Offered Fall * 
-
-+ Description: Covers a broad array of topics in software security and security engineering that concern software systems. Famous vulnerabilities will be examined (e.g., Heartbleed and Apple's "goto fail") with an emphasis on how such problems can be prevented, detected, and exploited. Letter grade only. 
-
-+ Prerequisite: (CS 249 or CYB 404), CS 305 
-
- + Workforce Framework for Cybersecurity (NICE Framework) 
-
-    |Knowledge ID| Work Role |
-   |------------|-----------|
-   |[K0479](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0479)| [Target Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-developer)|
-   |[]()| [Target Network Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-network-analyst)|
-
-#### CYB486 Capstone
-
-Students are encouraged to gain experience in their chosen field(s) by undertaking educational experiences outside of regular class work by pursuing credit for Individualize Studies. Academic credit for this work is offered through University Course Lines that can be offered under the course prefix of the supporting unit in which the experienced is offered. Departments may limit the number of credit hours that can be taken in any instance and that can be used towards meeting major or minor requirements. Check with your major or minor department for its policy.
-
-
-*Offered* **Spring 2023** 
-
-
-+ Description: Examines recent trends and investigations in a selected area. Letter grade only. 
-
-> VICEROY DECREE Virtual Institute Students will focus their research  into those determined by the VICEROY special interest areas. 
-
  
 
 #### CYB 402 Applied Cryptography (3 credits)
@@ -253,8 +241,7 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
 #### CYB 410 Secure Software (3 credits)
  [Syllabus](./courses/NAUCYB410.pdf)
 
-
-*Offered Fall 2022* 
+*Offered Fall * 
 
 
 + Description: This course prepares students to understand and defend against software attacks through static and dynamic analysis of software systems. The course requires prior experience with software development and network security. This course explores cutting edge tools used in software system analysis and design, which develops critical skills needed in CYB 486C Capstone. By developing the skills to understand and analyze software systems, students also learn how software exploits can be discovered and can be guarded against in advanced software engineering practice. This is a required course in the B.S. in Cybersecurity curriculum and a pre-requisite for CYB 486C. This class also directly supports several program student outcomes through its subject matter, student learning, activities, and assessment (student outcomes 1, 2, and 6).
@@ -268,11 +255,11 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
    |[K0479](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0479)| [Target Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-developer)|
    |[]()| [Target Network Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/target-network-analyst)| 
 
+
 #### INF 638: Cryptography and Public Key Infrastructure (3 credits)   
  [Syllabus](./courses/NAUINF638.pdf)
 
-*Offered* **Fall 2023** 
-
+*Offered Fall*
 
 + Description: Study of methods, techniques, and research areas in cryptography and public key infrastructure to strengthen cybersecurity. Letter grade only. 
 
@@ -294,6 +281,18 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
    |[]()| [IT Project Manager](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/it-project-manager)|
    |[]()| [Product Support Manager](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/product-support-manager)|
 
+
+#### CS 485 Undergraduate Research (1-4 credits)
+*Offered  Fall 2023* 
+
+
++ Description: Original research under the supervision of a research adviser.
+> VICEROY DECREE Virtual Institute Students will focus their research area into those determined by the VICEROY special interest areas. 
+ 
+
++ Workforce Framework for Cybersecurity (NICE Framework) 
+
+
  ---
  
 
@@ -301,7 +300,7 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
 
 #### ECE 3317 - Applied Electromagnetic Waves (3 credits)
  [Syllabus](./courses/UHECE3317.pdf)
-*Offered Fall 2022* 
+*Offered Fall* 
 
 + Description: Maxwell’s equations in time and frequency domains, Poynting’s theorem, plane wave propagation, reflection and transmission in lossless and lossy media, transmission lines, waveguides, and antennas.  
 
@@ -310,7 +309,7 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
 
 #### ECE 3318 - Applied Electricity and Magnetism (3 credits)
  [Syllabus](./courses/UHECE3318.pdf)
-*Offered Spring 2023* 
+*Offered Spring* 
 
 
 + *Description:* Fundamentals of electricity and magnetism, vector calculus, Maxwell’s equations, Kirchoff’s laws, static electric and magentic fields, resistance, capacitance, inductance, magentic circuits, and transformers. 
@@ -322,7 +321,7 @@ Students are encouraged to gain experience in their chosen field(s) by undertaki
 
  [Syllabus](./courses/UHECE5397.pdf)
 
-*Offered Spring 2023* 
+*Offered Spring* 
 
 + Description: Basic security concepts. Cryptography basics. Computer security and network security. Security analysis.  
 
