@@ -183,13 +183,21 @@ This course provides the foundations to understand the security and privacy thre
 #### CYB 126/136 Secure Design I/II (4 credits)   
  [Syllabus](./courses/NAUCYB126.pdf)
 
-*Offered Fand and Spring * 
+*Offered Fall and Spring * 
 
 + Description: Introduction to the foundations of computer software and digital hardware and defensive design strategies.  Topics include programming, digital logic design, state machines, input validation, error handling, and bug mitigation.
  
 + Workforce Framework for Cybersecurity (NICE Framework) 
 
-
+   |Knowledge ID| Work Role |
+   |------------|-----------|
+   |[K0073](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0073)| [Software Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/software-developer)|
+   |[]()| [Secure Software Assessor](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/secure-software-assessor)|
+   |[]()| [Systems Requirements Planner](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-requirements-planner)|
+   |[]()| [Information Systems Security Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/information-systems-security-developer)|
+   |[]()| [Systems Developer](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-developer)|
+   |[K0290](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0290)| [Systems Security Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-security-analyst)|
+   |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
 
 #### CYB 310 Malware Analysis (3 credits)   
  [Syllabus](./courses/NAUCYB310.pdf)
@@ -288,9 +296,6 @@ This course provides the foundations to understand the security and privacy thre
 
 + Description: Original research under the supervision of a research adviser.
 > VICEROY DECREE Virtual Institute Students will focus their research area into those determined by the VICEROY special interest areas. 
- 
-
-+ Workforce Framework for Cybersecurity (NICE Framework) 
 
 
  ---
