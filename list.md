@@ -148,15 +148,17 @@ This course provides the foundations to understand the security and privacy thre
 ---
  
 
-### Northern Arizona University <a name="NAU"></a>
 
+
+### Northern Arizona University <a name="NAU"></a>
+<!--
 #### PHY 599 - Advanced Electricity and Magnetism
 [Syllabus](./courses/NAUPHY599.pdf)
 
 + Description: Introduce students to modern electrodynamic theory and methods, including; Special function approaches to analytical solutions to electrostatic, magnetostatic and electrodynamic problems; Maxwell’s equations in matter; Multipolar analysis; Conservations laws; and Electromagnetic energy and momentum. Mathematical analysis of Maxwell’s equations is a central component of this class, including eigenfunction analysis, partial differential equations, and vector calculus. Completion of this course will prepare students to analyze and solve a variety of problems in electricity and magnetism.
 + Prerequisites: Undergraduate Electricity and Magnetism I & II
 
-<!--
+
 
 #### PHY 331 - Electricity and Magnetism I (3 credits)     
 [Syllabus](./courses/NAUPHY331.pdf)
@@ -166,7 +168,7 @@ This course provides the foundations to understand the security and privacy thre
 + Description: Electrostatistics, magnetostatistics, Lorentz force, fields in matter, electromagnetic induction. Letter grade only. 
 
 + Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher) 
--->
+
  
 
 #### PHY 332 - Electricity and Magnetism II (3 credits)
@@ -179,7 +181,8 @@ This course provides the foundations to understand the security and privacy thre
 
 + Prerequisites: PHY 263 and (PHY 265 or CS 122) and (MAT 238 or higher) 
 
- 
+-->
+
 #### CYB 126/136 Secure Design I/II (4 credits)   
  [Syllabus](./courses/NAUCYB126.pdf)
 
@@ -223,7 +226,7 @@ This course provides the foundations to understand the security and privacy thre
  [Syllabus](./courses/NAUCYB402.pdf)
 
 
-*Offered Fall 2022* 
+*Offered Fall * 
 
 
 + Description: A practice-oriented approach to cryptography with topics in encryption, randomness, cryptographic security, block ciphers, stream ciphers, hash functions, keyed hashing, authentication, computational complexity, RSA, elliptic curve cryptography, TLS, and post-quantum cryptography. Co-convened with CYB 502. 
@@ -290,13 +293,17 @@ This course provides the foundations to understand the security and privacy thre
    |[]()| [Product Support Manager](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/product-support-manager)|
 
 
-#### CS 485 Undergraduate Research (1-4 credits)
-*Offered  Fall 2023* 
+#### CS 485 Undergraduate Research (3-4 credits)
+*Offered  Spring* 
 
 
 + Description: Original research under the supervision of a research adviser.
 > VICEROY DECREE Virtual Institute Students will focus their research area into those determined by the VICEROY special interest areas. 
 
+
+### CYB 499 (Current Developments): 3 Credits
++ Description: : Examines recent trends and investigations in a selected area. 
+> VICEROY DECREE Virtual Institute Students will focus their research area into those determined by the VICEROY special interest areas. 
 
  ---
  
