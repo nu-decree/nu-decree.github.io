@@ -53,7 +53,7 @@ Scholars will be eligible to take virtual, credit-bearing coursework from consor
 + Must be security-clearance eligible
 
 **[Download Application form here](./doc/decreeapp.pdf)**
-### --- The next Priority Application Deadline for Fall 2024 application is June 23rd 2023 ---
+### --- The next Priority Application Deadline for Fall 2023 application is June 23rd 2023 ---
 
 The application process is described in the following flow-chart:
 
