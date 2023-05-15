@@ -1,4 +1,10 @@
 ![](./images/decree_head.png)
+
+<p>
+<h2 align="center"> Interested? </h2>
+<h3 align="center"> <a href="https://neu.co1.qualtrics.com/jfe/form/SV_aYuDzdj1O3UYsXI">Register for our ON-LINE INFORMATION SESSION on June 16th 10AM  2023 (EST).</a> </h3>
+<h3 align="center">  <a href=""> </a> </h3>
+<h2 align="center">  </h2>
 ---
 
 ### [1. The Viceroy DECREE Virtual Institute](#decree)
@@ -12,13 +18,9 @@
 
 
 ---
-<!---
-<p>
-<h2 align="center"> Interested? </h2>
-<h3 align="center"> <a href="https://neu.co1.qualtrics.com/jfe/form/SV_aYuDzdj1O3UYsXI">Register for our ON-LINE informative session on October 21st 10AM  2022 (EST).</a> </h3>
-<h3 align="center">  <a href=""> </a> </h3>
-<h2 align="center">  </h2>
--->
+<!-- -->
+
+<!-- -->
 <h3 align="center"> <a href="https://calendar.google.com/calendar/ical/nudecree%40gmail.com/public/basic.ics"> Suscribe to our Calendar </a> </h3>
 <h3 align="center">  <a href=""> </a> </h3>
 <h2 align="center">  </h2>
