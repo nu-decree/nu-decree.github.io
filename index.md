@@ -1,3 +1,4 @@
+![](./images/neu_head.png)
 ![](./images/decree_head.png)
 
 <p>
