@@ -1,5 +1,5 @@
 ![](./images/neu_head.png)
-![](./images/decree_head.png)
+
 
 <p>
 <h2 align="center"> Interested? </h2>
