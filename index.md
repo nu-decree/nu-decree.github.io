@@ -1,5 +1,5 @@
 <p align="center">
-<img src=./images/neu_head.png/>
+<img src=./images/neu_head.png>
 </p>
 <!--
 ![](./images/neu_head.png)
