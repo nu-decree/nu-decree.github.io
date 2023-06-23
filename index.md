@@ -4,7 +4,7 @@
 </p>
 <!--
 ![](./images/neu_head.png)
--->
+
 
 <p>
 <h2 align="center"> Interested? </h2>
@@ -12,7 +12,7 @@
 <h3 align="center">  <a href=""> </a> </h3>
 <h2 align="center">  </h2>
 </p>
-
+-->
 ---
 ### [1. The Viceroy DECREE Virtual Institute](#decree)
 ### [2. DECREE Scholars' Applications](#applications)
