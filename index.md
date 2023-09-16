@@ -108,25 +108,13 @@ Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as 
 ---
 # 5. Applications for interns for Viceroy Summer Program <a name="interns"/>
  
-## VICEROY 2023 Summer program 
-Here is the 2023 Application for interns for our VICEROY 2023 Summer program. This is for returning interns from 2022 as well as any new interns who wish to be considered for a summer internship. any questions please email viceroyintern@griffissinstitute.org
+## VICEROY 2024 Summer program 
+Here is the 2024 Application for interns for our VICEROY 2024 Summer program. This is for returning interns from 2023 as well as any new interns who wish to be considered for a summer internship. 
 
-Application  will close on Dec. 31st 2022. All students will need to fill the following form as well as list a university reference who will receive an email asking them to complete a quick reference for their student.
+Application  will close on December 2023. All students will need to fill the following form as well as list a university reference who will receive an email asking them to complete a quick reference for their student.
 
-[VICEROY Intern Application - READ CAREFULLY](https://app.smartsheet.com/b/form/17d56d5964124697bbf884c458509ee4)
-
-## X-Force Fellowship - Student Application 2023
-The NSIN X-Force Fellowship is a full-time, paid summer internship program which provides current undergraduate students, current graduate students, and recent graduates a chance to serve their country by solving real-world national security problems in collaboration with the U.S. Department of Defense.  
-
-[X-Force Fellowship application -Deadline Jan 20th 2023](https://app.smartsheetgov.com/b/form/0c6667d5121b4489b58629ac421a644e)
-
-
-## Lincoln Laboratory's Summer intership program
-
-
-Each summer, the Laboratory offers undergraduate and graduate students the unique opportunity to gain hands-on experience in a leading-edge research environment. Program participants contribute to projects and gain experience that complements their courses of study. In recent summers, we've hired more than 200 students representing top universities.
-
-[Summer Research Program](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
+[VICEROY Intern Application - READ CAREFULLY](https://app.smartsheet.com/b/form/f1eb974f36004faba76c3de6268493ea)
+more information [Here](https://www.viceroyscholars.org)
 
 ---
 # 6. Cyber and EMS Careers <a name="careers"/>
