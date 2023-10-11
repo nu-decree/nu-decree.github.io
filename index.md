@@ -58,12 +58,12 @@ Scholars will be eligible to take virtual, credit-bearing coursework from consor
 
 
 **Eligibility Criteria:**
-+ Must be **undergraduate student enrolled full-time** at Northeastern University (preferably sophomore or junior)
++ Must be **undergraduate student enrolled full-load** at Northeastern University (preferably sophomore or junior)
 + Must fulfill specific academic requirements and course pre-requisites 
 + Must be security-clearance eligible
 
 **[Download Application form here](./doc/decreeapp.pdf)**
-### --- The next Priority Application Deadline for Fall 2023 application is June 23rd 2023 ---
+### --- The next Priority Application Deadline for Spring 2024 application is Nov 24th 2023 ---
 
 The application process is described in the following flow-chart:
 
