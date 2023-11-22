@@ -56,6 +56,9 @@ VICEROY DECREE scholars will receive a scholarship of up to $10,000 to participa
 
 Scholars will be eligible to take virtual, credit-bearing coursework from consortium institutions, have access to mentoring programs, as well as access to DoD-related internships, co-ops, and post-graduation employment opportunities. Scholars will be required to complete 8-10 credits within the VICEROY DECREE designated curriculum by the end of the spring 2024 semester, with at least one-third of credits taken outside their home institution.
 
+Scholars responsabilities
+![](./images/responsabilities.png)
+
 
 **Eligibility Criteria:**
 + Must be **undergraduate student enrolled full-load** at Northeastern University (preferably sophomore or junior)
