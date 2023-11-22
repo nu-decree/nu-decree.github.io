@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/neu_head.png" />
+<img src="./images/DECREE-2.png" />
 
 </p>
 <!--
