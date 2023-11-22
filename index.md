@@ -3,7 +3,7 @@
 
 </p>
 <!--
-![](./images/neu_head.png)
+![](./images/DECREE-2.png)
 -->
 
 <p>
