@@ -25,12 +25,9 @@
 
 ---
 <!-- -->
-
-<!-- -->
 <h3 align="center"> <a href="https://calendar.google.com/calendar/ical/nudecree%40gmail.com/public/basic.ics"> Suscribe to our Calendar </a> </h3>
 <h3 align="center">  <a href=""> </a> </h3>
 <h2 align="center">  </h2>
-</p>
 
 ---
 
