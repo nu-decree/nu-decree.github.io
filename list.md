@@ -450,7 +450,7 @@ This course provides the foundations to understand the security and privacy thre
     |[]()| [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
 
 
-#### ITEC 564: Project Management for Information Systems (3 credits)    
+<!--- #### ITEC 564: Project Management for Information Systems (3 credits)    
 [Syllabus](./courses/USCITEC564.pdf)
 
 + Description: Application of project management software, technology, and practices to the design and implementation of real-world information technology projects within a capstone format.
@@ -458,3 +458,11 @@ This course provides the foundations to understand the security and privacy thre
 + Prerequisites: ITEC 362, Web-based Support Systems, and the successful completion with a C or better of ITEC 560, Analysis and Applications of Project Management Software. 
 
 > VICEROY DECREE Virtual Institute Students will focus their research  into those determined by the VICEROY special interest areas. 
+--->
+
+
+#### ITEC 493: Information Technology Security for Managers (3 credits)    
+[Syllabus](./courses/USCITEC564.pdf)
+
++ Description: This course provides an overview of information security, including security awareness, the network security infrastructure, common terms and classifications, defense in depth, risk management, security policy development, and incident response models.
++ Prerequisites: ITEC-445 Advanced Networking
