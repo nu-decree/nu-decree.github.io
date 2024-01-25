@@ -366,7 +366,7 @@ This course provides the foundations to understand the security and privacy thre
    |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
    |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| [Multi-Disciplined Language Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/multi-disciplined-language-analyst)|
  
-<!---
+
 #### RUSS 122: Basic Proficiency in Russian  (4 credits).   
  [Syllabus](./courses/USCRUSS122.pdf)
 
@@ -387,7 +387,14 @@ This course provides the foundations to understand the security and privacy thre
    |[K0407](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0407)| []()| 
    |[K0476](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0476)| []()| 
    |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
--->
+
+
+
+#### ITEC 493: Information Technology Security for Managers (3 credits)    
+[Syllabus](./courses/USCITEC493.pdf)
+
++ Description: This course provides an overview of information security, including security awareness, the network security infrastructure, common terms and classifications, defense in depth, risk management, security policy development, and incident response models.
++ Prerequisites: ITEC-445 Advanced Networking
 
 
 #### ITEC 445: Advanced Networking (3 credits).   
@@ -459,10 +466,3 @@ This course provides the foundations to understand the security and privacy thre
 
 > VICEROY DECREE Virtual Institute Students will focus their research  into those determined by the VICEROY special interest areas. 
 --->
-
-
-#### ITEC 493: Information Technology Security for Managers (3 credits)    
-[Syllabus](./courses/USCITEC493.pdf)
-
-+ Description: This course provides an overview of information security, including security awareness, the network security infrastructure, common terms and classifications, defense in depth, risk management, security policy development, and incident response models.
-+ Prerequisites: ITEC-445 Advanced Networking
