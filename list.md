@@ -462,7 +462,7 @@ This course provides the foundations to understand the security and privacy thre
 
 
 #### ITEC 493: Information Technology Security for Managers (3 credits)    
-[Syllabus](./courses/USCITEC564.pdf)
+[Syllabus](./courses/USCITEC493.pdf)
 
 + Description: This course provides an overview of information security, including security awareness, the network security infrastructure, common terms and classifications, defense in depth, risk management, security policy development, and incident response models.
 + Prerequisites: ITEC-445 Advanced Networking
