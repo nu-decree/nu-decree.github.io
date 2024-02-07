@@ -19,7 +19,7 @@
 ### [2. DECREE Scholars' Applications](#applications)
 ### [3. DECREE Course Curricula](#curricula)
 ### [4. Become a mentor for DECREE Scholars](#mentors)
-### [5. Internships for Viceroy Decree Scholars](#interns)
+### [5. Internships and Opportunities for Viceroy Decree Scholars](#interns)
 ### [6. Cyber and EMS Careers](#careers)
 ### [DECREE Calendar](#calendar)
 
@@ -117,6 +117,14 @@ Application  will close on December 2023. All students will need to fill the fol
 [VICEROY Intern Application - READ CAREFULLY](https://app.smartsheet.com/b/form/f1eb974f36004faba76c3de6268493ea)
 more information [Here](https://www.viceroyscholars.org)
 
+
+## Other Oportunitites
+ 
++ [https://ignite.ll.mit.edu/ignite/](https://ignite.ll.mit.edu/ignite/)
+ 
++ The Army’s direct commissioning program for cyber:
+   - [https://talent.army.mil/job/cyber-officer/](https://talent.army.mil/job/cyber-officer/)
+   - [https://www.smartscholarship.org/smart/en](https://www.smartscholarship.org/smart/en)
 ---
 # 6. Cyber and EMS Careers <a name="careers"/>
 
