@@ -92,6 +92,15 @@ Course curricula is divided into the following areas:
   - Research
 
 + You can find the list of [courses curricula here](./list.md)
++ The upcoming Registrations deadlines are:
+   -  South Carolina
+       - Summer 2024 --> May 1st
+       - Fall 2024 --> July 1st
+   - Northern Arizona
+       - Fall 2024 --> September 5th
+   - Northeastern University
+       - Fall 2024 --> September 4th
+  
 
 
 
