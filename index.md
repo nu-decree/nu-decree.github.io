@@ -143,8 +143,9 @@ more information [Here](https://www.viceroyscholars.org)
 3.	https://www.nsa.gov/careers/
 4.	https://www.goarmy.com/careers-and-jobs/specialty-careers/army-cyber.html
 5.	https://www.airforce.com/careers/in-demand-careers/cyber
-6.	https://www.navy.com/careers/cyber-warfare-engineer
-7.	https://www.gocoastguard.com/active-duty-careers/officer-opportunities/programs/direct-commission-cyber-officer-dcco
+6.	https://afresearchlab.com/careers-and-opportunities/students-and-faculty/
+7.	https://www.navy.com/careers/cyber-warfare-engineer
+8.	https://www.gocoastguard.com/active-duty-careers/officer-opportunities/programs/direct-commission-cyber-officer-dcco
 
 
 
