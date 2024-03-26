@@ -64,7 +64,7 @@ Scholars responsabilities
 + Must be security-clearance eligible
 
 **[Download Application form here](./doc/decreeapp.pdf)**
-### --- The next Priority Application Deadline for Spring 2024 application is Nov 30th 2023 ---
+### --- The next Priority Application Deadline for Fall 2024 application is June 30th 2024 ---
 
 The application process is described in the following flow-chart:
 
