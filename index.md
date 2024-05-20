@@ -118,10 +118,10 @@ Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as 
 ---
 # 5. Applications for interns for Viceroy Summer Program <a name="interns"/>
  
-## VICEROY 2024 Summer program 
-Here is the 2024 Application for interns for our VICEROY 2024 Summer program. This is for returning interns from 2023 as well as any new interns who wish to be considered for a summer internship. 
+## VICEROY 2025 Summer program 
+Here is the 2024 Application for interns for our VICEROY 2024 Summer program. This is for returning interns from 2024 as well as any new interns who wish to be considered for a summer internship. 
 
-Application  will close on December 2023. All students will need to fill the following form as well as list a university reference who will receive an email asking them to complete a quick reference for their student.
+Application  will close on December 2024. All students will need to fill the following form as well as list a university reference who will receive an email asking them to complete a quick reference for their student.
 
 [VICEROY Intern Application - READ CAREFULLY](https://app.smartsheet.com/b/form/f1eb974f36004faba76c3de6268493ea)
 more information [Here](https://www.viceroyscholars.org)
