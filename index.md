@@ -5,14 +5,14 @@
 <!--
 ![](./images/DECREE-2.png)
 -->
-<!--
+
 <p>
+<h1 align="center"> Fall 2024 Application Deadline June 7th 2024 </h1>
 <h2 align="center"> Interested? </h2>
-<h3 align="center"> <a href="https://neu.co1.qualtrics.com/jfe/form/SV_aYuDzdj1O3UYsXI">Register for our ON-LINE INFORMATION SESSION on Nov 29th 10AM  2023 (EST).</a> </h3>
-<h3 align="center">  <a href=""> </a> </h3>
+<h3 align="center"> <a href="https://neu.co1.qualtrics.com/jfe/form/SV_aYuDzdj1O3UYsXI">Register for our ON-LINE INFORMATION SESSION on June 3rd 10AM  2024 (EST).</a> </h3>
+<h3 align="center">  <a href="https://northeastern.zoom.us/j/94941262085"> </a> </h3>
 <h2 align="center">  </h2>
 </p>
--->
 
 ---
 ### [1. The Viceroy DECREE Virtual Institute](#decree)
@@ -64,7 +64,7 @@ Scholars responsabilities
 + Must be security-clearance eligible
 
 **[Download Application form here](./doc/decreeapp.pdf)**
-### --- The next Priority Application Deadline for Fall 2024 application is June 30th 2024 ---
+### --- The next Priority Application Deadline for Fall 2024 application is June 7th 2024 ---
 
 The application process is described in the following flow-chart:
 
