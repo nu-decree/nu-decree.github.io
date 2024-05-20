@@ -38,7 +38,7 @@ The VICEROY DECREE Virtual Institute is a consortium of 4 universities (Northern
 The DECREE Virtual Institute (Department of Defense Electromagnetic and Cyber Research and Experiential Education)  is one of the 13 existing [Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY)](https://www.viceroyscholars.org) awarded by the [Griffiss Institute](https://www.griffissinstitute.org/about-us/gi-news/news-story/griffiss-institute-selects-universities-as-viceroy-national-hubs-to-boost-stem-students-into-cyber-defense).
 
 
-The [VICEROY DECREE VI](https://news.northeastern.edu/2022/04/25/cyber-warfare-initiative/) will establish a shared curriculum that will deliver advanced cyber, EMS, data science, cryptography, and strategic foreign language education, hands-on practical training, and research opportunities to a cohort of up to 12 Northeastern University undergraduate students and ROTC cadets. The virtual institute will organize and offer multiple events for scholars and mentors to attend to meet and network with industry and DoD partners and to showcase knowledge, skills, and abilities.
+The [VICEROY DECREE VI](https://news.northeastern.edu/2022/04/25/cyber-warfare-initiative/) will establish a shared curriculum that will deliver advanced cyber, EMS, data science, cryptography, and strategic foreign language education, hands-on practical training, and research opportunities to a cohort of Northeastern University undergraduate students and ROTC cadets. The virtual institute will organize and offer multiple events for scholars and mentors to attend to meet and network with industry and DoD partners and to showcase knowledge, skills, and abilities.
 
 >Funding for VICEROY Decree provided by the Office of the Undersecretary of Defense for Research and Engineering, in collaboration with the Air Force Research Laboratory and Griffiss Institute.
 
@@ -101,9 +101,6 @@ Course curricula is divided into the following areas:
    - Northeastern University
        - Fall 2024 --> September 4th
   
-
-
-
 --- 
 
 
