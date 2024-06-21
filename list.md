@@ -32,7 +32,7 @@ Prerequisites: Permission of the instructor.
 
 #### CY 3740/CY 5130: Systems Security (4 credits)   
 [Syllabus](./courses/NUCY3740.pdf)
-*Offered Fall and Spring* 
+*Offered Spring* 
 
 
 
