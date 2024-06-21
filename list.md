@@ -29,7 +29,7 @@ Description: Offers an opportunity to conduct introductory-level research or cre
 Prerequisites: Permission of the instructor.
 
  
-
+<!---
 #### CY 3740/CY 5130: Systems Security (4 credits)   
 [Syllabus](./courses/NUCY3740.pdf)
 *Offered Spring* 
@@ -47,7 +47,7 @@ Prerequisites: Permission of the instructor.
    |[K0290](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0290)| [Systems Security Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/systems-security-analyst)|
    |  | [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
  
-
+--->
 #### CY 4760/6760: Security of Wireless and Mobile Systems (4 credits)   
 [Syllabus](./courses/NUCY4760.pdf)
 
