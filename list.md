@@ -414,7 +414,7 @@ This course provides the foundations to understand the security and privacy thre
 
 + Description: This course will cover network infrastructure topics (client/server protocols, routing, switching) with emphasis on hands-on implementations using network operating system software. 
 
-+ Prerequisites: None 
++ Prerequisites: ITEC 245 
 
 + Workforce Framework for Cybersecurity (NICE Framework) 
 
