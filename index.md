@@ -5,7 +5,7 @@
 <!--
 ![](./images/DECREE-2.png)
 -->
-
+<!--
 <p>
 <h1 align="center"> Fall 2024 Application Deadline June 7th 2024 </h1>
 <h2 align="center"> Interested? </h2>
@@ -13,6 +13,7 @@
 <h3 align="center">  <a href="https://northeastern.zoom.us/j/94941262085"> </a> </h3>
 <h2 align="center">  </h2>
 </p>
+-->
 
 ---
 ### [1. The Viceroy DECREE Virtual Institute](#decree)
