@@ -389,7 +389,19 @@ This course provides the foundations to understand the security and privacy thre
    |[K0574](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0574)| []()|  
 
 
+#### ITEC 245: Introduction to Networking (3 credits)    
+[Syllabus](./courses/USCITEC245.pdf)
 
++ Description: This online course is an introduction to technologies, terminology, and skills used in data networking.  Emphasis is on practical applications of networking and computer technology to real-world problems.  Prepares students for entry-level jobs as a networking technician and prepares them for learning more advanced topics in networking.    
++ Prerequisites: ITEC 233
+
+#### ITEC 293: Cybersecurity Operations (3 credits)    
+[Syllabus](./courses/USCITEC293.pdf)
+
++ Description: This course is an in-depth exploration of operations in Security Operation Centers (SOCs). It introduces technologies, terminology, and skills necessary for security operations. Emphasis is on practical applications for analyzing, detecting, and responding to security events.
++ Prerequisites: 
+
+  
 #### ITEC 493: Information Technology Security for Managers (3 credits)    
 [Syllabus](./courses/USCITEC493.pdf)
 
