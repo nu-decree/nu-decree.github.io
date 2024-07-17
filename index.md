@@ -93,7 +93,7 @@ Course curricula is divided into the following areas:
   - Research
 
 + You can find the list of [courses curricula here](./list.md)
-+ The upcoming Registrations deadlines are:
++ **The upcoming Registrations deadlines are:**
    -  South Carolina
        - Summer 2024 --> May 1st
        - Fall 2024 --> July 1st
@@ -101,7 +101,7 @@ Course curricula is divided into the following areas:
        - Fall 2024 --> September 5th
    - Northeastern University
        - Fall 2024 --> September 4th
-  
+  >> **It is importnat to start the process ASAP through your `VICEROY DECREE PoC', because courses are very popular and fill up soon**
 --- 
 
 
