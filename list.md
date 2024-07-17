@@ -13,7 +13,29 @@ This curricula is organized by the consortium University offer:
 ##### You can find syllabus for most of these courses, however courses content may vary and the syllabus just provides a preliminary content of the course based on previous semesters.
 ---
 ## Courses by topic and Univerisity
-![Courses in Areas and Universities](./courses/sp23list.png)
+
+
+|                    | NAU                                 | NU                                  | UofSC                                | University Houston                         |
+|--------------------|-------------------------------------|-------------------------------------|--------------------------------------|-------------------------------------------|
+| **EMS**            | PHY 332 Electricity and Magnetism II|                                     | ITEC 245 - Intro to Networking       | ECE 3317 Applied Electromagnetic Waves  |
+|                    |                                     |                                     | ITEC 445 - Advanced Networking       | ECE 3318 Applied Electricity and Magnetism|
+|  |  |  |  |
+| **Cyber**          | CYB 310 Malware Analysis            |                                     | ITEC 293 - Cybersecurity Operations  | ECE 5357 Introduction to Cybersecurity    |
+|                    | CYB 410 Secure Software             |                                     | ITEC 493: IT Security for Managers   |                                           |
+|                    | CYB 126/136 Secure Design I/II      |                                     |                                      |                                           |
+|  |  |  |  |
+| **Crypto**         | INF 638 Cryptography and PKI        |                                     |                                      |                                           |
+|                    | CYB 402 Applied Cryptography        |                                     |                                      |                                           |
+|  |  |  |  |
+| **Data Science**   |                                     | DS 3000 Found. of Data Science      |                                      |                                           |
+|                    |                                     | DS 3500 Advanced Programming with Data |                                   |                                           |
+|  |  |  |  |
+| **Strategic Language** |                                 | CHNS 1101/1102 Elementary Chinese   | RUSS 121/122 Elementary Russian      |                                           |
+|  |  |  |  |
+| **Research**       | CS485 Undergraduate Research        | CY 2991. Research in Cybersecurity  | ITEC 564 Capstone Project            |                                           |   
+
+
+<!-- ![Courses in Areas and Universities](./courses/sp23list.png)-->
 > Course details are provided bellow
 
 ---
