@@ -70,7 +70,7 @@ Prerequisites: Permission of the instructor.
    |  | [Cyber Defense Analyst](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-defense-analyst)|
  
 --->
-#### CY 4760/6760: Security of Wireless and Mobile Systems (4 credits)   
+<!--- #### CY 4760/6760: Security of Wireless and Mobile Systems (4 credits)   
 [Syllabus](./courses/NUCY4760.pdf)
 
 *Offered Spring* 
@@ -86,7 +86,7 @@ This course provides the foundations to understand the security and privacy thre
    |------------|-----------|
    |[K0438](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0438)| [Cyber Operator](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/cyber-operator)|
    |[K0269](https://niccs.cisa.gov/workforce-development/nice-framework/knowledges/k0269) | [Research & Development Specialist](https://niccs.cisa.gov/workforce-development/nice-framework/work-roles/research-development-specialist)|
-
+-->
 
 #### DS 3000 Foundations of Data Science (4 credits)
  [Syllabus](./courses/NUDS3000.pdf). 
