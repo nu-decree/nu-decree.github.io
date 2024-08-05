@@ -416,13 +416,14 @@ This course provides the foundations to understand the security and privacy thre
 
 + Description: This online course is an introduction to technologies, terminology, and skills used in data networking.  Emphasis is on practical applications of networking and computer technology to real-world problems.  Prepares students for entry-level jobs as a networking technician and prepares them for learning more advanced topics in networking.    
 + Prerequisites: ITEC 233
+ > This course are designed for scholars without a background in Computer Science. Prior to registration, inclusion of these courses in their academic plan requires approval from their academic advisor
 
 #### ITEC 293: Cybersecurity Operations (3 credits)    
 [Syllabus](./courses/USCITEC293.pdf)
 
 + Description: This course is an in-depth exploration of operations in Security Operation Centers (SOCs). It introduces technologies, terminology, and skills necessary for security operations. Emphasis is on practical applications for analyzing, detecting, and responding to security events.
-+ Prerequisites: 
-
++ Prerequisites: No prereq
+ > This course are designed for scholars without a background in Computer Science. Prior to registration, inclusion of these courses in their academic plan requires approval from their academic advisor
   
 #### ITEC 493: Information Technology Security for Managers (3 credits)    
 [Syllabus](./courses/USCITEC493.pdf)
