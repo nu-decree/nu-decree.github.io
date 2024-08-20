@@ -17,12 +17,12 @@ This curricula is organized by the consortium University offer:
 
 |                    | NAU                                 | NU                                  | UofSC                                | University Houston                         |
 |--------------------|-------------------------------------|-------------------------------------|--------------------------------------|-------------------------------------------|
-| **EMS**            | PHY 332 Electricity and Magnetism II|                                     | ITEC 245 - Intro to Networking       | ECE 3317 Applied Electromagnetic Waves  |
-|                    |                                     |                                     | ITEC 445 - Advanced Networking       | ECE 3318 Applied Electricity and Magnetism|
+| **EMS**            | PHY 332 Electricity and Magnetism II|                                     |                                      | ECE 3317 Applied Electromagnetic Waves  |
+|                    |                                     |                                     |                                      | ECE 3318 Applied Electricity and Magnetism|
 |  |  |  |  |
-| **Cyber**          | CYB 310 Malware Analysis            |                                     | ITEC 293 - Cybersecurity Operations  | ECE 5357 Introduction to Cybersecurity    |
-|                    | CYB 410 Secure Software             |                                     | ITEC 493: IT Security for Managers   |                                           |
-|                    | CYB 126/136 Secure Design I/II      |                                     |                                      |                                           |
+| **Cyber**          | CYB 310 Malware Analysis            |                                     | ITEC 445 - Advanced Networking (ITEC245) | ECE 5357 Introduction to Cybersecurity |
+|                    | CYB 410 Secure Software             |                                     | ITEC 493: IT Security for Managers (ITEC293)   |                                  |
+|                    | CYB 126/136 Secure Design I/II      |                                     |                                      |                                       |
 |  |  |  |  |
 | **Crypto**         | INF 638 Cryptography and PKI        |                                     |                                      |                                           |
 |                    | CYB 402 Applied Cryptography        |                                     |                                      |                                           |
