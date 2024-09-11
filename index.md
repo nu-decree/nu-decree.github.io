@@ -120,16 +120,8 @@ Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as 
 Here is the 2025 Application for interns for  VICEROY  Summer program. 
 VICEROY internship applications are now live through a soft launch and can be accessed at the following link: [VICEROY Internship Application](https://www.viceroyscholars.org/about-us/apply/).
 
-
-## 7 Other Oportunitites
- 
-+ [https://ignite.ll.mit.edu/ignite/](https://ignite.ll.mit.edu/ignite/)
- 
-+ The Army’s direct commissioning program for cyber:
-   - [https://talent.army.mil/job/cyber-officer/](https://talent.army.mil/job/cyber-officer/)
-   - [https://www.smartscholarship.org/smart/en](https://www.smartscholarship.org/smart/en)
 ---
-# 8. Cyber and EMS Careers <a name="careers"/>
+## 7. Cyber and EMS Careers <a name="careers"/>
 
 
 1.	https://www.disa.mil/careers
@@ -142,6 +134,13 @@ VICEROY internship applications are now live through a soft launch and can be ac
 8.	https://www.gocoastguard.com/active-duty-careers/officer-opportunities/programs/direct-commission-cyber-officer-dcco
 
 
+##### 7 Other Oportunitites
+ 
++ [https://ignite.ll.mit.edu/ignite/](https://ignite.ll.mit.edu/ignite/)
+ 
++ The Army’s direct commissioning program for cyber:
+   - [https://talent.army.mil/job/cyber-officer/](https://talent.army.mil/job/cyber-officer/)
+   - [https://www.smartscholarship.org/smart/en](https://www.smartscholarship.org/smart/en)
 
 ---
 ## Calendar <a name="calendar"/> 
