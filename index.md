@@ -19,9 +19,10 @@
 ### [1. The Viceroy DECREE Virtual Institute](#decree)
 ### [2. DECREE Scholars' Applications](#applications)
 ### [3. DECREE Course Curricula](#curricula)
-### [4. Become a mentor for DECREE Scholars](#mentors)
-### [5. Internships and Opportunities for Viceroy Decree Scholars](#interns)
-### [6. Cyber and EMS Careers](#careers)
+### [4. Scholars DECREE Accreditation Path](#path)
+### [5. Become a mentor for DECREE Scholars](#mentors)
+### [6. Internships and Opportunities for Viceroy Decree Scholars](#interns)
+### [8. Cyber and EMS Careers](#careers)
 ### [DECREE Calendar](#calendar)
 
 ---
@@ -54,9 +55,6 @@ The Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Emplo
 VICEROY DECREE scholars will receive a scholarship of up to $10,000 to participate in a virtual curriculum focused on cybersecurity, electromagnetic spectrum operations, data science, cryptography, and strategic foreign languages offered by a consortium of institutions.  
 
 Scholars will be eligible to take virtual, credit-bearing coursework from consortium institutions, have access to mentoring programs, as well as access to DoD-related internships, co-ops, and post-graduation employment opportunities. Scholars will be required to complete 8-10 credits within the VICEROY DECREE designated curriculum by the end of the spring 2024 semester, with at least one-third of credits taken outside their home institution.
-
-Scholars responsabilities
-![](./images/responsabilities.png)
 
 
 **Eligibility Criteria:**
@@ -104,8 +102,10 @@ Course curricula is divided into the following areas:
   >> **It is importnat to start the process ASAP through your `VICEROY DECREE PoC', because courses are very popular and fill up soon**
 --- 
 
+# 4. Scholars DECREE Accreditation Path <a name="path"/>
+![](https://www.plantuml.com/plantuml/png/XLR1RkCs4BtpAmQRGmzjikcXHR67OXUA5mZGROnri42FD3MoY5AaC1pPKB--r4YcB2j63a4qR_WUPvweeJz7riHTuzHFqMY7yFjlZr2ZFTISaST7EDcIQ-MmOk00DAIXj8I6RV2gjYK2DYttK68qP5k1bKhYZF3XntEn-Vxo3pnjYk-R3HGltxP_RLwVN_x-03g22KthS630NO_EXLCc5cCApymVpr1qHDPqhcj6SWxXpWrbJGep_WbsfWvE4tZ4SYZVd5MjJo5h1tyCyA-FvsqCOMavFYnKlZ0ur94XU4mI7KK4pQ2XrSGUAQb5jjn9wxSQA3Bl3POqDE7J1dUdsZA-8nS7lJeqU2qcu7jAuGaA9BQLDJeJpIMoT7QH-WIlfo0QMmeLnfWmxKHmMX6l2K_OeY-jFq1IZkEhYR3Nvjy3XSwNeDFVoN8DskWI6sj0bqSR0u5kMmf7xNw1m3NIiie8HdlO8tGHomTGQjth3ar7blkVfSSuHPCrgzLRz8oHnyNj6DoqyQMgq4Txd3S19crzwbFu8USNPcOudzAuFgRxr6rM4tkArwzoKAonhJJ_iAv86nwsQmdJIbaar0KDh1UjOIjaExz-hh8hxpVwcXkTZK9oUd_jrZRlBT_UrLZOzKqROhJJbnqbjDSVjhgbDgb4RApN5ANPpH4zHv53ULngZTWRrcjczEKy4RBgG-PCYIPjepbGVzx0XCupL860QysGQBP9FOHgNB3qFxxJJA23zlO_B1DMTf6f_qWOKPEfSqb3TpcO7B-XkgfvzcS6pnBh4_KDFGUAy16sY7JVI0WjXGFfyPsDq9NB8_YMpGqY0-6XIwZhvQFF4k6817feJ4xJmopp1GWhDruzGDW6ugounw6UiZCftFUJ6AJMv17nvkdPZbqaHxJhvZc8ELpsj9eLXFUxZexO2wqbZ1BTd2qXyeAGuZSPSprWFICTBPw4aQCpOTxp_lxFYy9LrbvbiiPrOjhyg_NQdMSqEDGa4sZqN5pDRqBiok4DkxOoYn1st9Ne6GeTKNXn14oAv_up9DNDqkhYMfRKnGy8KClxKz9vjShtuIgJBmF15xUVcaRQEgNK8hmkHkKHjifahzUawPolS6Mu4Z3V6MenQvUf_BJMoL-wfCQnfV80kS36Vsk1-LMiSv_HbrtZ_WS0)
 
-# 4. Become a Mentor for DECREE VI <a name="mentors"/>
+# 5. Become a Mentor for DECREE VI <a name="mentors"/>
 
 VICEROY DECREE Virtual Institute is seeking **mentors with backgrounds in Cybersecurity, Electromagnetic Spectrum, Cryptography, and/or Data Science**.
 
@@ -114,18 +114,14 @@ Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as 
 > Mentors will be provided with a small stipend for their participation and efforts.
 
 ---
-# 5. Applications for interns for Viceroy Summer Program <a name="interns"/>
+# 6. Applications for interns for Viceroy Summer Program <a name="interns"/>
  
 ## VICEROY 2025 Summer program 
-Here is the 2024 Application for interns for our VICEROY 2024 Summer program. This is for returning interns from 2024 as well as any new interns who wish to be considered for a summer internship. 
-
-Application  will close on December 2024. All students will need to fill the following form as well as list a university reference who will receive an email asking them to complete a quick reference for their student.
-
-[VICEROY Intern Application - READ CAREFULLY](https://app.smartsheet.com/b/form/f1eb974f36004faba76c3de6268493ea)
-more information [Here](https://www.viceroyscholars.org)
+Here is the 2025 Application for interns for  VICEROY  Summer program. 
+VICEROY internship applications are now live through a soft launch and can be accessed at the following link: [VICEROY Internship Application](https://www.viceroyscholars.org/about-us/apply/).
 
 
-## Other Oportunitites
+## 7 Other Oportunitites
  
 + [https://ignite.ll.mit.edu/ignite/](https://ignite.ll.mit.edu/ignite/)
  
@@ -133,7 +129,7 @@ more information [Here](https://www.viceroyscholars.org)
    - [https://talent.army.mil/job/cyber-officer/](https://talent.army.mil/job/cyber-officer/)
    - [https://www.smartscholarship.org/smart/en](https://www.smartscholarship.org/smart/en)
 ---
-# 6. Cyber and EMS Careers <a name="careers"/>
+# 8. Cyber and EMS Careers <a name="careers"/>
 
 
 1.	https://www.disa.mil/careers
