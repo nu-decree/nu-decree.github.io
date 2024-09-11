@@ -116,12 +116,12 @@ Each mentor will engage with VICEROY DECREE VI scholarship recipients to act as 
 ---
 # 6. Applications for interns for Viceroy Summer Program <a name="interns"/>
  
-## VICEROY 2025 Summer program 
+**VICEROY 2025 Summer program** 
 Here is the 2025 Application for interns for  VICEROY  Summer program. 
 VICEROY internship applications are now live through a soft launch and can be accessed at the following link: [VICEROY Internship Application](https://www.viceroyscholars.org/about-us/apply/).
 
 ---
-## 7. Cyber and EMS Careers <a name="careers"/>
+# 7. Cyber and EMS Careers <a name="careers"/>
 
 
 1.	https://www.disa.mil/careers
